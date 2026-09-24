@@ -1,0 +1,1201 @@
+Order_ID,Date,Product,Category,Region,Sales_Channel,Customer_Segment,Quantity,Sales,Profit
+ORD00001,2025-01-13,Wireless Mouse,Electronics,North,Offline,Consumer,5,163990,33723.05
+ORD00002,2025-02-17,Laptop Pro 14,Electronics,West,Online,Corporate,4,124780,11945.52
+ORD00003,2025-05-23,USB-C Hub,Electronics,South,Offline,Consumer,1,21626,2463.43
+ORD00004,2025-07-14,Wireless Mouse,Electronics,North,Offline,Consumer,2,95504,20804.43
+ORD00005,2025-05-31,Water Bottle,Accessories,East,Online,Consumer,6,4050,818.47
+ORD00006,2025-07-14,Wireless Mouse,Electronics,South,Offline,Small Business,5,300645,40629.65
+ORD00007,2025-11-08,Wireless Mouse,Electronics,South,Offline,Consumer,3,212130,29120.09
+ORD00008,2025-01-17,Office Chair,Furniture,East,Online,Small Business,6,61638,16027.19
+ORD00009,2025-07-22,Backpack,Accessories,East,Offline,Small Business,8,18560,4108.21
+ORD00010,2025-07-05,Gel Pen Pack,Stationery,North,Online,Small Business,4,4360,975.9
+ORD00011,2025-12-15,Mechanical Keyboard,Electronics,West,Offline,Small Business,7,552104,103273.45
+ORD00012,2025-12-15,Laptop Pro 14,Electronics,South,Offline,Consumer,2,142162,16704.75
+ORD00013,2025-09-14,Standing Desk,Furniture,South,Offline,Consumer,3,14958,2842.96
+ORD00014,2025-09-29,Water Bottle,Accessories,East,Offline,Consumer,1,459,34.76
+ORD00015,2025-05-04,Laptop Pro 14,Electronics,South,Offline,Small Business,2,23852,5393.94
+ORD00016,2025-05-16,Mechanical Keyboard,Electronics,East,Offline,Small Business,7,199220,28243.07
+ORD00017,2025-03-03,Backpack,Accessories,South,Online,Consumer,4,1888,349.87
+ORD00018,2025-12-29,Wireless Mouse,Electronics,South,Offline,Small Business,1,30707,2035.79
+ORD00019,2025-04-20,Backpack,Accessories,West,Online,Consumer,3,6870,1583.28
+ORD00020,2025-12-04,Wireless Mouse,Electronics,North,Online,Consumer,7,329966,82056.75
+ORD00021,2025-06-23,Gel Pen Pack,Stationery,West,Online,Corporate,2,938,143.68
+ORD00022,2025-05-08,Backpack,Accessories,North,Online,Consumer,2,1428,285.59
+ORD00023,2025-07-28,Mechanical Keyboard,Electronics,North,Offline,Corporate,8,510336,44841.46
+ORD00024,2025-05-27,Backpack,Accessories,South,Online,Small Business,7,10976,1028.19
+ORD00025,2025-02-01,Water Bottle,Accessories,South,Online,Small Business,6,26514,6932.32
+ORD00026,2025-04-06,Wireless Mouse,Electronics,South,Online,Small Business,2,157384,12208.89
+ORD00027,2025-08-03,Wireless Mouse,Electronics,South,Offline,Corporate,6,209274,23248.53
+ORD00028,2025-02-07,Notebook,Stationery,East,Online,Corporate,1,284,49.32
+ORD00029,2025-05-06,Wireless Mouse,Electronics,North,Offline,Small Business,6,228318,48360.99
+ORD00030,2025-03-10,Wireless Mouse,Electronics,South,Offline,Consumer,5,79145,9086.16
+ORD00031,2025-09-16,Standing Desk,Furniture,North,Online,Corporate,8,25312,6093.87
+ORD00032,2025-11-23,Mechanical Keyboard,Electronics,North,Online,Small Business,5,109390,5712.79
+ORD00033,2025-07-09,Laptop Pro 14,Electronics,North,Offline,Consumer,3,171099,22905.0
+ORD00034,2025-12-08,Office Chair,Furniture,South,Online,Consumer,2,39692,10436.05
+ORD00035,2025-01-13,Gel Pen Pack,Stationery,North,Offline,Consumer,3,1764,152.79
+ORD00036,2025-04-24,Backpack,Accessories,South,Offline,Corporate,4,8656,876.61
+ORD00037,2025-02-05,Standing Desk,Furniture,East,Online,Consumer,5,112600,23228.16
+ORD00038,2025-04-02,Standing Desk,Furniture,East,Offline,Small Business,5,25260,5495.7
+ORD00039,2025-03-01,Water Bottle,Accessories,North,Online,Corporate,7,4641,988.63
+ORD00040,2025-02-05,Gel Pen Pack,Stationery,West,Offline,Corporate,6,2010,334.94
+ORD00041,2025-10-11,Standing Desk,Furniture,East,Offline,Small Business,3,45831,8779.77
+ORD00042,2025-06-05,Laptop Pro 14,Electronics,South,Offline,Small Business,5,141245,21414.27
+ORD00043,2025-12-04,Mechanical Keyboard,Electronics,South,Offline,Consumer,2,75792,18056.49
+ORD00044,2025-03-17,Office Chair,Furniture,South,Offline,Corporate,1,9523,1473.64
+ORD00045,2025-05-05,Gel Pen Pack,Stationery,West,Online,Small Business,3,2850,257.79
+ORD00046,2025-03-04,Office Chair,Furniture,West,Offline,Small Business,8,133800,25014.45
+ORD00047,2025-03-23,Backpack,Accessories,West,Online,Corporate,8,20568,4651.19
+ORD00048,2025-02-09,Backpack,Accessories,North,Online,Consumer,5,14595,3727.51
+ORD00049,2025-07-16,Office Chair,Furniture,West,Offline,Consumer,3,10812,1363.42
+ORD00050,2025-08-04,Office Chair,Furniture,East,Offline,Corporate,7,170030,27154.7
+ORD00051,2025-10-03,Gel Pen Pack,Stationery,West,Offline,Small Business,4,2552,412.65
+ORD00052,2025-03-26,Gel Pen Pack,Stationery,North,Online,Small Business,8,9384,2426.64
+ORD00053,2025-03-11,Gel Pen Pack,Stationery,West,Offline,Corporate,8,4896,613.43
+ORD00054,2025-05-23,Gel Pen Pack,Stationery,North,Offline,Consumer,7,7301,1622.83
+ORD00055,2025-11-30,Wireless Mouse,Electronics,South,Online,Corporate,1,4767,919.59
+ORD00056,2025-10-16,Wireless Mouse,Electronics,North,Online,Corporate,4,246608,21847.37
+ORD00057,2025-10-24,Wireless Mouse,Electronics,South,Online,Small Business,1,41588,11084.79
+ORD00058,2025-02-22,Office Chair,Furniture,East,Online,Small Business,5,27330,4715.28
+ORD00059,2025-01-07,Notebook,Stationery,West,Online,Corporate,7,6769,1327.97
+ORD00060,2025-09-25,Mechanical Keyboard,Electronics,East,Offline,Consumer,5,356195,85457.93
+ORD00061,2025-05-23,Wireless Mouse,Electronics,East,Online,Corporate,8,261304,14790.07
+ORD00062,2025-07-01,Office Chair,Furniture,South,Online,Consumer,5,53315,2790.23
+ORD00063,2025-09-08,Gel Pen Pack,Stationery,North,Offline,Consumer,4,4340,1008.51
+ORD00064,2025-12-21,Gel Pen Pack,Stationery,East,Offline,Small Business,4,3340,592.18
+ORD00065,2025-06-19,Water Bottle,Accessories,South,Offline,Consumer,6,14154,1458.2
+ORD00066,2025-12-20,Water Bottle,Accessories,East,Online,Consumer,3,7695,1667.16
+ORD00067,2025-04-27,Standing Desk,Furniture,North,Online,Small Business,6,68424,5413.3
+ORD00068,2025-12-24,Standing Desk,Furniture,West,Offline,Consumer,3,14583,2303.55
+ORD00069,2025-05-10,Laptop Pro 14,Electronics,North,Online,Consumer,8,125224,8394.88
+ORD00070,2025-06-05,USB-C Hub,Electronics,West,Offline,Corporate,2,66460,15180.1
+ORD00071,2025-10-29,Standing Desk,Furniture,South,Online,Corporate,7,140924,37759.99
+ORD00072,2025-03-22,Wireless Mouse,Electronics,West,Offline,Corporate,4,93928,4754.2
+ORD00073,2025-04-29,Laptop Pro 14,Electronics,East,Online,Corporate,5,188780,39284.84
+ORD00074,2025-10-06,Wireless Mouse,Electronics,East,Offline,Corporate,4,80912,5155.45
+ORD00075,2025-08-28,Wireless Mouse,Electronics,North,Online,Corporate,5,267285,43720.58
+ORD00076,2025-11-06,Notebook,Stationery,East,Online,Consumer,5,2740,766.93
+ORD00077,2025-09-23,Backpack,Accessories,West,Offline,Corporate,8,34624,9448.29
+ORD00078,2025-06-14,Notebook,Stationery,West,Online,Corporate,2,1846,214.67
+ORD00079,2025-06-11,Wireless Mouse,Electronics,North,Offline,Corporate,5,215360,51628.95
+ORD00080,2025-04-07,Laptop Pro 14,Electronics,South,Offline,Corporate,6,396228,38362.16
+ORD00081,2025-03-04,Backpack,Accessories,West,Online,Consumer,1,2845,502.69
+ORD00082,2025-08-25,Wireless Mouse,Electronics,West,Offline,Corporate,2,41762,8863.76
+ORD00083,2025-08-22,Office Chair,Furniture,East,Offline,Corporate,3,23235,5779.15
+ORD00084,2025-05-17,Water Bottle,Accessories,West,Offline,Corporate,1,1517,231.65
+ORD00085,2025-10-06,Water Bottle,Accessories,South,Offline,Consumer,7,15792,2866.46
+ORD00086,2025-08-31,Notebook,Stationery,South,Offline,Consumer,7,2737,744.22
+ORD00087,2025-02-21,Backpack,Accessories,East,Offline,Small Business,8,12512,840.94
+ORD00088,2025-11-29,Gel Pen Pack,Stationery,West,Online,Small Business,2,2344,631.6
+ORD00089,2025-05-01,Wireless Mouse,Electronics,North,Offline,Consumer,5,152585,34314.08
+ORD00090,2025-01-15,Standing Desk,Furniture,South,Online,Small Business,1,3338,454.68
+ORD00091,2025-10-17,Gel Pen Pack,Stationery,South,Offline,Small Business,3,723,139.2
+ORD00092,2025-04-29,Mechanical Keyboard,Electronics,West,Offline,Small Business,8,271912,69813.12
+ORD00093,2025-03-22,Water Bottle,Accessories,West,Offline,Consumer,2,7550,1576.23
+ORD00094,2025-09-05,Gel Pen Pack,Stationery,East,Online,Small Business,2,1630,453.66
+ORD00095,2025-05-21,Gel Pen Pack,Stationery,East,Online,Small Business,1,180,43.48
+ORD00096,2025-04-23,Notebook,Stationery,North,Offline,Corporate,4,1440,371.21
+ORD00097,2025-10-24,Laptop Pro 14,Electronics,South,Online,Consumer,6,107544,23866.23
+ORD00098,2025-07-07,Water Bottle,Accessories,East,Online,Corporate,5,13585,3011.91
+ORD00099,2025-03-14,Wireless Mouse,Electronics,North,Offline,Small Business,4,211156,48957.97
+ORD00100,2025-08-21,Wireless Mouse,Electronics,South,Offline,Consumer,6,210372,15760.99
+ORD00101,2025-10-15,USB-C Hub,Electronics,East,Offline,Consumer,6,178290,46205.49
+ORD00102,2025-01-24,Mechanical Keyboard,Electronics,South,Offline,Corporate,1,40593,4221.83
+ORD00103,2025-12-10,Notebook,Stationery,West,Offline,Consumer,7,6503,1572.1
+ORD00104,2025-04-22,Notebook,Stationery,East,Offline,Consumer,8,6576,1812.43
+ORD00105,2025-05-22,Gel Pen Pack,Stationery,North,Online,Corporate,4,1068,211.03
+ORD00106,2025-03-06,Office Chair,Furniture,South,Offline,Consumer,4,78640,18637.85
+ORD00107,2025-01-02,USB-C Hub,Electronics,North,Online,Consumer,5,98320,22973.27
+ORD00108,2025-07-03,Laptop Pro 14,Electronics,South,Offline,Small Business,4,311528,34590.36
+ORD00109,2025-02-02,Wireless Mouse,Electronics,South,Online,Small Business,8,475648,73231.36
+ORD00110,2025-06-04,Water Bottle,Accessories,North,Offline,Small Business,8,28720,4251.79
+ORD00111,2025-02-07,Backpack,Accessories,East,Offline,Small Business,2,1676,132.44
+ORD00112,2025-05-31,Water Bottle,Accessories,North,Online,Corporate,8,8896,2067.54
+ORD00113,2025-04-27,Backpack,Accessories,East,Offline,Corporate,7,25949,5651.97
+ORD00114,2025-07-11,Standing Desk,Furniture,North,Offline,Consumer,3,11097,792.8
+ORD00115,2025-01-31,Water Bottle,Accessories,North,Offline,Small Business,6,22584,5638.35
+ORD00116,2025-06-30,Standing Desk,Furniture,South,Online,Corporate,2,36252,7288.44
+ORD00117,2025-07-08,Water Bottle,Accessories,North,Offline,Consumer,2,7630,1864.66
+ORD00118,2025-05-20,Mechanical Keyboard,Electronics,West,Online,Consumer,5,226205,56566.73
+ORD00119,2025-02-16,Laptop Pro 14,Electronics,East,Offline,Small Business,4,200032,17243.59
+ORD00120,2025-02-13,USB-C Hub,Electronics,West,Offline,Small Business,1,21092,2374.61
+ORD00121,2025-08-01,Backpack,Accessories,East,Offline,Small Business,5,15635,2327.74
+ORD00122,2025-01-24,Standing Desk,Furniture,South,Online,Corporate,4,84552,8203.01
+ORD00123,2025-06-17,Standing Desk,Furniture,South,Offline,Consumer,2,35596,2837.45
+ORD00124,2025-01-22,Gel Pen Pack,Stationery,West,Offline,Corporate,7,1673,305.2
+ORD00125,2025-07-27,Wireless Mouse,Electronics,North,Online,Corporate,1,43268,3040.44
+ORD00126,2025-07-25,USB-C Hub,Electronics,South,Online,Small Business,2,105146,13312.09
+ORD00127,2025-09-29,Wireless Mouse,Electronics,East,Online,Consumer,4,185972,13695.92
+ORD00128,2025-03-20,USB-C Hub,Electronics,West,Offline,Small Business,2,47836,10692.42
+ORD00129,2025-03-19,Notebook,Stationery,North,Offline,Small Business,8,7880,1837.27
+ORD00130,2025-06-08,Wireless Mouse,Electronics,North,Online,Small Business,8,479464,115689.98
+ORD00131,2025-09-17,USB-C Hub,Electronics,South,Offline,Small Business,7,429436,111258.92
+ORD00132,2025-09-14,Backpack,Accessories,North,Online,Consumer,3,9339,2577.08
+ORD00133,2025-12-29,Office Chair,Furniture,East,Offline,Corporate,8,149376,19971.05
+ORD00134,2025-12-14,Notebook,Stationery,West,Offline,Corporate,1,755,134.64
+ORD00135,2025-03-18,USB-C Hub,Electronics,West,Online,Small Business,6,68292,8287.46
+ORD00136,2025-06-08,Wireless Mouse,Electronics,West,Offline,Consumer,7,306278,60822.43
+ORD00137,2025-06-08,Notebook,Stationery,South,Online,Consumer,3,3225,329.29
+ORD00138,2025-02-21,Standing Desk,Furniture,South,Online,Small Business,1,21751,1859.23
+ORD00139,2025-01-23,Backpack,Accessories,West,Online,Small Business,7,27566,5249.58
+ORD00140,2025-06-08,Office Chair,Furniture,West,Offline,Consumer,8,108424,24609.09
+ORD00141,2025-11-06,Office Chair,Furniture,North,Online,Corporate,3,9627,1709.22
+ORD00142,2025-03-24,Wireless Mouse,Electronics,South,Offline,Corporate,5,297965,21183.56
+ORD00143,2025-08-01,Laptop Pro 14,Electronics,North,Offline,Consumer,1,52664,7310.72
+ORD00144,2025-06-13,Laptop Pro 14,Electronics,West,Online,Small Business,2,89294,10356.52
+ORD00145,2025-08-18,Backpack,Accessories,West,Online,Corporate,1,2066,500.06
+ORD00146,2025-06-04,Office Chair,Furniture,West,Online,Small Business,2,18626,1200.36
+ORD00147,2025-10-22,Water Bottle,Accessories,South,Offline,Consumer,4,1248,238.87
+ORD00148,2025-09-26,Wireless Mouse,Electronics,North,Offline,Corporate,6,57420,13256.83
+ORD00149,2025-11-22,Laptop Pro 14,Electronics,East,Online,Small Business,7,347403,80375.02
+ORD00150,2025-10-25,Wireless Mouse,Electronics,South,Offline,Small Business,6,109116,13952.21
+ORD00151,2025-11-20,Backpack,Accessories,North,Online,Consumer,3,1806,212.19
+ORD00152,2025-06-08,Notebook,Stationery,South,Offline,Corporate,7,4186,934.55
+ORD00153,2025-12-02,Laptop Pro 14,Electronics,West,Offline,Corporate,6,219066,55770.24
+ORD00154,2025-09-12,Mechanical Keyboard,Electronics,North,Offline,Small Business,8,390784,84889.5
+ORD00155,2025-10-07,Mechanical Keyboard,Electronics,East,Offline,Small Business,5,214005,43231.45
+ORD00156,2025-03-27,Gel Pen Pack,Stationery,West,Offline,Small Business,8,1328,254.2
+ORD00157,2025-02-08,Laptop Pro 14,Electronics,West,Online,Consumer,7,338233,28018.98
+ORD00158,2025-05-01,Wireless Mouse,Electronics,East,Offline,Corporate,6,289002,59587.67
+ORD00159,2025-10-21,Wireless Mouse,Electronics,South,Online,Consumer,3,210291,41931.81
+ORD00160,2025-09-13,Mechanical Keyboard,Electronics,South,Offline,Small Business,7,520233,110252.3
+ORD00161,2025-04-13,Backpack,Accessories,West,Online,Small Business,2,3428,879.95
+ORD00162,2025-12-08,Notebook,Stationery,South,Online,Corporate,6,7140,1820.74
+ORD00163,2025-04-25,Water Bottle,Accessories,East,Offline,Small Business,2,8694,487.26
+ORD00164,2025-11-10,Mechanical Keyboard,Electronics,West,Online,Consumer,2,18634,3184.74
+ORD00165,2025-11-25,Notebook,Stationery,South,Online,Corporate,2,2278,181.14
+ORD00166,2025-01-29,Water Bottle,Accessories,South,Offline,Small Business,2,3296,287.58
+ORD00167,2025-02-10,Standing Desk,Furniture,North,Online,Small Business,5,111545,21612.42
+ORD00168,2025-03-20,USB-C Hub,Electronics,East,Online,Small Business,3,134856,9262.08
+ORD00169,2025-11-13,Gel Pen Pack,Stationery,East,Offline,Consumer,1,1197,236.57
+ORD00170,2025-06-02,Gel Pen Pack,Stationery,West,Offline,Consumer,8,1616,244.19
+ORD00171,2025-11-07,Notebook,Stationery,East,Online,Corporate,3,2361,189.06
+ORD00172,2025-08-27,Office Chair,Furniture,East,Offline,Small Business,2,32464,2346.07
+ORD00173,2025-05-08,Gel Pen Pack,Stationery,West,Offline,Corporate,3,2160,487.12
+ORD00174,2025-09-12,Standing Desk,Furniture,South,Offline,Consumer,1,14385,3917.58
+ORD00175,2025-05-25,Laptop Pro 14,Electronics,North,Offline,Consumer,8,632136,109636.96
+ORD00176,2025-07-07,Standing Desk,Furniture,South,Offline,Small Business,7,20874,3781.63
+ORD00177,2025-02-07,Standing Desk,Furniture,North,Offline,Corporate,7,113799,9057.56
+ORD00178,2025-10-13,Notebook,Stationery,North,Online,Consumer,6,6732,1110.9
+ORD00179,2025-08-31,Notebook,Stationery,East,Online,Corporate,8,9080,1138.92
+ORD00180,2025-06-03,USB-C Hub,Electronics,East,Offline,Consumer,6,403164,85878.03
+ORD00181,2025-06-19,Notebook,Stationery,East,Online,Small Business,2,1420,265.95
+ORD00182,2025-10-26,Laptop Pro 14,Electronics,South,Online,Small Business,8,184392,44066.39
+ORD00183,2025-04-08,Wireless Mouse,Electronics,South,Offline,Small Business,1,58507,8482.39
+ORD00184,2025-08-30,USB-C Hub,Electronics,West,Offline,Corporate,1,18798,2345.26
+ORD00185,2025-08-24,Mechanical Keyboard,Electronics,South,Offline,Small Business,6,433806,40873.53
+ORD00186,2025-04-26,Standing Desk,Furniture,East,Offline,Corporate,5,122990,15117.85
+ORD00187,2025-10-21,Wireless Mouse,Electronics,North,Offline,Corporate,7,366884,21893.91
+ORD00188,2025-09-03,Standing Desk,Furniture,South,Online,Small Business,4,76592,16093.47
+ORD00189,2025-05-03,USB-C Hub,Electronics,North,Online,Corporate,4,29412,5786.14
+ORD00190,2025-08-30,Notebook,Stationery,West,Offline,Small Business,2,806,161.33
+ORD00191,2025-05-28,Office Chair,Furniture,South,Online,Consumer,6,135984,27200.7
+ORD00192,2025-04-01,Gel Pen Pack,Stationery,North,Offline,Small Business,1,461,116.01
+ORD00193,2025-02-24,USB-C Hub,Electronics,South,Offline,Corporate,6,227988,37298.8
+ORD00194,2025-02-27,Office Chair,Furniture,East,Offline,Small Business,6,99222,5282.52
+ORD00195,2025-03-31,Office Chair,Furniture,North,Online,Consumer,7,128688,18298.36
+ORD00196,2025-06-15,Backpack,Accessories,East,Offline,Corporate,4,8916,1361.91
+ORD00197,2025-10-21,USB-C Hub,Electronics,North,Offline,Corporate,1,34982,2248.94
+ORD00198,2025-07-27,Mechanical Keyboard,Electronics,South,Online,Corporate,5,80445,15394.27
+ORD00199,2025-08-21,Mechanical Keyboard,Electronics,South,Online,Small Business,6,331230,77659.8
+ORD00200,2025-02-11,USB-C Hub,Electronics,North,Online,Small Business,8,559424,145990.8
+ORD00201,2025-04-14,Water Bottle,Accessories,South,Offline,Consumer,3,11757,902.18
+ORD00202,2025-08-17,Water Bottle,Accessories,North,Offline,Small Business,1,3703,574.2
+ORD00203,2025-01-12,Standing Desk,Furniture,East,Online,Small Business,7,11186,675.82
+ORD00204,2025-02-05,Laptop Pro 14,Electronics,West,Offline,Corporate,8,38872,8818.64
+ORD00205,2025-07-13,Backpack,Accessories,East,Online,Consumer,7,9723,1947.64
+ORD00206,2025-07-21,Water Bottle,Accessories,West,Offline,Consumer,3,8232,1288.23
+ORD00207,2025-08-24,Office Chair,Furniture,West,Online,Consumer,6,63192,3627.85
+ORD00208,2025-02-04,Office Chair,Furniture,North,Offline,Corporate,2,5200,552.7
+ORD00209,2025-10-04,Office Chair,Furniture,East,Offline,Consumer,4,24364,2530.38
+ORD00210,2025-03-15,Standing Desk,Furniture,South,Offline,Small Business,4,45384,8080.4
+ORD00211,2025-01-25,Backpack,Accessories,East,Offline,Consumer,6,22260,3203.21
+ORD00212,2025-08-31,Water Bottle,Accessories,West,Offline,Small Business,4,16372,4263.11
+ORD00213,2025-03-10,Water Bottle,Accessories,West,Offline,Consumer,7,21035,4180.55
+ORD00214,2025-04-08,Water Bottle,Accessories,South,Offline,Consumer,1,896,83.58
+ORD00215,2025-06-05,Notebook,Stationery,South,Offline,Consumer,1,320,83.3
+ORD00216,2025-06-14,Water Bottle,Accessories,East,Offline,Corporate,5,16215,1961.0
+ORD00217,2025-08-29,Wireless Mouse,Electronics,South,Online,Consumer,6,163944,9921.0
+ORD00218,2025-10-11,Standing Desk,Furniture,South,Offline,Small Business,7,45458,4677.82
+ORD00219,2025-05-12,Notebook,Stationery,West,Online,Small Business,8,3392,301.65
+ORD00220,2025-09-26,Laptop Pro 14,Electronics,South,Online,Small Business,1,10442,1512.53
+ORD00221,2025-01-05,Mechanical Keyboard,Electronics,West,Offline,Consumer,4,267948,51473.37
+ORD00222,2025-09-30,Laptop Pro 14,Electronics,East,Online,Small Business,7,15771,2731.85
+ORD00223,2025-04-02,Gel Pen Pack,Stationery,East,Offline,Corporate,2,768,72.3
+ORD00224,2025-02-10,Gel Pen Pack,Stationery,North,Online,Consumer,6,3468,412.67
+ORD00225,2025-07-14,Gel Pen Pack,Stationery,North,Offline,Corporate,7,1358,287.43
+ORD00226,2025-10-17,Notebook,Stationery,West,Offline,Consumer,2,1100,283.02
+ORD00227,2025-12-17,Wireless Mouse,Electronics,East,Online,Consumer,5,359380,94738.41
+ORD00228,2025-03-15,USB-C Hub,Electronics,West,Offline,Corporate,7,75488,7949.54
+ORD00229,2025-12-19,Mechanical Keyboard,Electronics,North,Offline,Small Business,2,132678,19972.06
+ORD00230,2025-11-01,USB-C Hub,Electronics,East,Offline,Corporate,7,304346,49559.34
+ORD00231,2025-12-15,Mechanical Keyboard,Electronics,North,Offline,Consumer,7,83524,17875.39
+ORD00232,2025-12-31,Gel Pen Pack,Stationery,East,Offline,Corporate,3,2454,174.36
+ORD00233,2025-02-22,Standing Desk,Furniture,West,Online,Consumer,3,22920,4082.2
+ORD00234,2025-07-01,Wireless Mouse,Electronics,West,Offline,Consumer,2,157880,8342.12
+ORD00235,2025-05-05,Water Bottle,Accessories,West,Online,Consumer,3,7506,895.17
+ORD00236,2025-08-11,Mechanical Keyboard,Electronics,South,Offline,Small Business,5,279470,37185.92
+ORD00237,2025-04-11,USB-C Hub,Electronics,East,Offline,Corporate,8,117768,31588.84
+ORD00238,2025-06-21,Backpack,Accessories,South,Offline,Corporate,7,20482,3865.74
+ORD00239,2025-07-23,Mechanical Keyboard,Electronics,East,Offline,Corporate,6,233400,29164.22
+ORD00240,2025-10-16,Wireless Mouse,Electronics,West,Online,Corporate,4,313296,17604.32
+ORD00241,2025-12-21,Standing Desk,Furniture,South,Offline,Small Business,2,47104,9216.71
+ORD00242,2025-08-05,Mechanical Keyboard,Electronics,West,Online,Corporate,7,72758,12580.19
+ORD00243,2025-11-01,Water Bottle,Accessories,North,Offline,Corporate,2,3324,660.84
+ORD00244,2025-02-24,Gel Pen Pack,Stationery,South,Offline,Corporate,1,534,118.43
+ORD00245,2025-08-26,Gel Pen Pack,Stationery,North,Online,Small Business,3,3204,377.91
+ORD00246,2025-06-28,Mechanical Keyboard,Electronics,West,Online,Corporate,5,228330,36777.79
+ORD00247,2025-06-13,Backpack,Accessories,North,Online,Small Business,2,970,237.95
+ORD00248,2025-09-22,Office Chair,Furniture,West,Online,Corporate,3,20241,2996.98
+ORD00249,2025-04-06,Mechanical Keyboard,Electronics,West,Online,Small Business,7,367843,68494.84
+ORD00250,2025-04-16,Office Chair,Furniture,East,Online,Corporate,5,102090,9494.45
+ORD00251,2025-05-15,Wireless Mouse,Electronics,North,Offline,Corporate,8,558944,106535.25
+ORD00252,2025-11-13,Backpack,Accessories,South,Offline,Consumer,3,4191,511.44
+ORD00253,2025-07-11,Mechanical Keyboard,Electronics,West,Online,Corporate,3,202962,36980.77
+ORD00254,2025-12-22,Water Bottle,Accessories,East,Offline,Small Business,3,7998,657.98
+ORD00255,2025-07-03,Laptop Pro 14,Electronics,West,Offline,Small Business,1,64218,17446.79
+ORD00256,2025-08-01,Backpack,Accessories,South,Offline,Consumer,8,39448,2252.4
+ORD00257,2025-04-26,Standing Desk,Furniture,North,Offline,Small Business,5,82425,13804.98
+ORD00258,2025-10-05,Notebook,Stationery,South,Offline,Consumer,1,527,38.76
+ORD00259,2025-05-15,Backpack,Accessories,East,Offline,Consumer,6,13446,1321.37
+ORD00260,2025-03-13,USB-C Hub,Electronics,South,Offline,Small Business,4,111296,12760.04
+ORD00261,2025-05-29,Standing Desk,Furniture,West,Online,Corporate,5,118795,32245.42
+ORD00262,2025-12-26,Mechanical Keyboard,Electronics,West,Offline,Consumer,3,100275,22575.81
+ORD00263,2025-11-20,USB-C Hub,Electronics,North,Offline,Small Business,5,274965,53820.11
+ORD00264,2025-12-22,Standing Desk,Furniture,North,Offline,Small Business,6,104952,26222.13
+ORD00265,2025-02-02,Notebook,Stationery,East,Offline,Small Business,7,3591,401.34
+ORD00266,2025-03-08,USB-C Hub,Electronics,West,Online,Consumer,8,366032,26684.53
+ORD00267,2025-08-14,Mechanical Keyboard,Electronics,East,Online,Corporate,8,6304,1594.24
+ORD00268,2025-12-02,Wireless Mouse,Electronics,East,Online,Corporate,6,201114,12451.18
+ORD00269,2025-12-27,Wireless Mouse,Electronics,South,Offline,Consumer,2,1684,135.6
+ORD00270,2025-12-23,Laptop Pro 14,Electronics,West,Online,Small Business,6,99036,6565.15
+ORD00271,2025-02-22,Wireless Mouse,Electronics,South,Online,Consumer,6,293262,66833.21
+ORD00272,2025-10-16,Water Bottle,Accessories,South,Offline,Small Business,1,2045,397.67
+ORD00273,2025-04-22,Backpack,Accessories,West,Offline,Consumer,2,6890,901.58
+ORD00274,2025-05-22,Office Chair,Furniture,East,Online,Small Business,2,39266,9620.77
+ORD00275,2025-09-18,USB-C Hub,Electronics,North,Online,Corporate,4,208188,34106.23
+ORD00276,2025-02-06,USB-C Hub,Electronics,West,Offline,Small Business,1,48029,11910.58
+ORD00277,2025-08-30,Mechanical Keyboard,Electronics,North,Online,Corporate,2,5774,636.89
+ORD00278,2025-05-27,Water Bottle,Accessories,South,Offline,Consumer,7,6825,1346.73
+ORD00279,2025-02-10,Standing Desk,Furniture,North,Offline,Small Business,4,76304,14107.13
+ORD00280,2025-05-03,Gel Pen Pack,Stationery,North,Offline,Small Business,1,969,149.49
+ORD00281,2025-03-03,Mechanical Keyboard,Electronics,East,Offline,Consumer,1,18684,3067.45
+ORD00282,2025-03-06,Notebook,Stationery,North,Offline,Small Business,5,3830,431.09
+ORD00283,2025-11-18,USB-C Hub,Electronics,South,Offline,Consumer,2,131462,8249.37
+ORD00284,2025-02-22,Standing Desk,Furniture,North,Online,Consumer,2,36346,8995.58
+ORD00285,2025-07-06,Backpack,Accessories,West,Online,Corporate,7,33803,7934.12
+ORD00286,2025-08-02,Office Chair,Furniture,North,Online,Consumer,6,24312,4022.89
+ORD00287,2025-01-24,Water Bottle,Accessories,West,Online,Corporate,7,19915,2494.94
+ORD00288,2025-05-30,Office Chair,Furniture,South,Online,Consumer,5,83505,23338.9
+ORD00289,2025-07-29,Laptop Pro 14,Electronics,North,Offline,Small Business,1,31239,8394.79
+ORD00290,2025-02-23,Standing Desk,Furniture,South,Offline,Consumer,4,37216,10088.24
+ORD00291,2025-04-29,Laptop Pro 14,Electronics,West,Online,Small Business,7,346661,57631.83
+ORD00292,2025-02-01,USB-C Hub,Electronics,West,Offline,Corporate,7,124824,30670.52
+ORD00293,2025-05-20,Backpack,Accessories,South,Offline,Corporate,4,4768,408.83
+ORD00294,2025-07-28,Notebook,Stationery,East,Online,Consumer,2,1010,122.12
+ORD00295,2025-12-18,Mechanical Keyboard,Electronics,South,Offline,Corporate,5,398880,33551.58
+ORD00296,2025-01-26,Water Bottle,Accessories,South,Online,Corporate,5,18060,4452.84
+ORD00297,2025-03-13,Wireless Mouse,Electronics,West,Offline,Small Business,2,4534,433.32
+ORD00298,2025-10-26,Wireless Mouse,Electronics,West,Online,Consumer,5,52640,13558.7
+ORD00299,2025-03-04,Notebook,Stationery,West,Offline,Consumer,1,424,101.33
+ORD00300,2025-12-16,Gel Pen Pack,Stationery,West,Online,Consumer,7,3633,411.42
+ORD00301,2025-11-14,USB-C Hub,Electronics,North,Offline,Corporate,4,157520,25231.1
+ORD00302,2025-08-03,Mechanical Keyboard,Electronics,East,Offline,Small Business,4,278476,77294.59
+ORD00303,2025-06-26,Backpack,Accessories,South,Online,Corporate,6,3078,379.65
+ORD00304,2025-08-30,Laptop Pro 14,Electronics,South,Offline,Small Business,6,463464,49593.95
+ORD00305,2025-04-23,Laptop Pro 14,Electronics,East,Online,Small Business,7,330428,61551.96
+ORD00306,2025-10-18,Notebook,Stationery,West,Online,Consumer,3,3264,395.21
+ORD00307,2025-04-30,Laptop Pro 14,Electronics,South,Online,Corporate,4,13248,1673.21
+ORD00308,2025-06-15,Mechanical Keyboard,Electronics,East,Online,Corporate,1,3572,874.03
+ORD00309,2025-10-28,Gel Pen Pack,Stationery,West,Offline,Small Business,2,1480,406.18
+ORD00310,2025-03-31,Notebook,Stationery,East,Online,Consumer,6,2634,317.58
+ORD00311,2025-12-26,Laptop Pro 14,Electronics,South,Online,Corporate,7,525567,137613.83
+ORD00312,2025-06-19,Mechanical Keyboard,Electronics,North,Offline,Corporate,2,63788,12523.05
+ORD00313,2025-05-16,Laptop Pro 14,Electronics,North,Online,Consumer,4,133628,14569.64
+ORD00314,2025-08-13,Gel Pen Pack,Stationery,West,Online,Corporate,7,7623,996.96
+ORD00315,2025-11-30,USB-C Hub,Electronics,East,Offline,Consumer,4,88076,10377.91
+ORD00316,2025-06-25,Wireless Mouse,Electronics,North,Offline,Small Business,3,149736,39922.89
+ORD00317,2025-09-05,USB-C Hub,Electronics,North,Offline,Consumer,1,57234,4929.79
+ORD00318,2025-07-29,Office Chair,Furniture,West,Online,Consumer,5,56225,3453.12
+ORD00319,2025-01-02,Notebook,Stationery,South,Online,Small Business,7,7441,538.04
+ORD00320,2025-02-11,Standing Desk,Furniture,East,Online,Small Business,8,92832,15084.48
+ORD00321,2025-07-18,Water Bottle,Accessories,East,Offline,Corporate,3,5484,836.47
+ORD00322,2025-04-26,Standing Desk,Furniture,East,Offline,Small Business,5,17595,1226.59
+ORD00323,2025-10-11,Office Chair,Furniture,West,Online,Corporate,1,18623,3874.06
+ORD00324,2025-02-10,Standing Desk,Furniture,South,Online,Corporate,7,125664,25865.8
+ORD00325,2025-03-27,Mechanical Keyboard,Electronics,West,Online,Small Business,4,103840,7063.69
+ORD00326,2025-11-01,Mechanical Keyboard,Electronics,East,Offline,Small Business,5,213050,37915.18
+ORD00327,2025-01-07,Backpack,Accessories,North,Online,Small Business,7,10598,1911.0
+ORD00328,2025-05-27,Wireless Mouse,Electronics,West,Online,Consumer,6,327336,59432.87
+ORD00329,2025-07-26,Standing Desk,Furniture,North,Offline,Corporate,3,8310,1735.28
+ORD00330,2025-01-11,Notebook,Stationery,North,Online,Consumer,6,3924,970.77
+ORD00331,2025-08-15,Standing Desk,Furniture,West,Offline,Small Business,6,90936,13785.43
+ORD00332,2025-01-29,Notebook,Stationery,North,Online,Consumer,3,3351,272.1
+ORD00333,2025-01-30,Office Chair,Furniture,East,Offline,Corporate,4,65824,13959.02
+ORD00334,2025-07-23,Water Bottle,Accessories,South,Offline,Small Business,2,8608,1606.51
+ORD00335,2025-06-29,Water Bottle,Accessories,North,Online,Small Business,6,15810,890.32
+ORD00336,2025-04-24,Office Chair,Furniture,North,Offline,Consumer,4,41268,2253.73
+ORD00337,2025-11-04,Mechanical Keyboard,Electronics,West,Offline,Corporate,1,30029,4428.54
+ORD00338,2025-04-22,Standing Desk,Furniture,North,Offline,Small Business,8,189520,34953.56
+ORD00339,2025-11-08,USB-C Hub,Electronics,East,Offline,Corporate,5,199105,12878.61
+ORD00340,2025-12-02,Standing Desk,Furniture,West,Offline,Small Business,5,32060,8237.11
+ORD00341,2025-01-14,Mechanical Keyboard,Electronics,North,Online,Corporate,8,315560,43958.53
+ORD00342,2025-12-18,Office Chair,Furniture,South,Offline,Consumer,8,144984,35281.41
+ORD00343,2025-03-07,Backpack,Accessories,South,Offline,Corporate,5,5155,521.26
+ORD00344,2025-07-10,Notebook,Stationery,North,Offline,Consumer,5,5145,814.06
+ORD00345,2025-03-03,Water Bottle,Accessories,South,Online,Consumer,7,5194,1300.03
+ORD00346,2025-07-29,Notebook,Stationery,South,Offline,Small Business,8,3592,582.42
+ORD00347,2025-01-03,Laptop Pro 14,Electronics,North,Online,Small Business,8,292408,47546.34
+ORD00348,2025-11-21,Gel Pen Pack,Stationery,South,Offline,Consumer,7,7399,377.9
+ORD00349,2025-09-29,Notebook,Stationery,East,Offline,Consumer,4,352,35.92
+ORD00350,2025-07-16,Wireless Mouse,Electronics,West,Offline,Corporate,5,112955,30288.5
+ORD00351,2025-06-25,Mechanical Keyboard,Electronics,South,Online,Consumer,8,382296,20796.4
+ORD00352,2025-10-29,Laptop Pro 14,Electronics,East,Online,Small Business,3,50529,12713.36
+ORD00353,2025-12-05,Laptop Pro 14,Electronics,North,Offline,Corporate,2,6574,1000.51
+ORD00354,2025-04-16,Mechanical Keyboard,Electronics,South,Offline,Consumer,1,40167,4502.51
+ORD00355,2025-11-13,Water Bottle,Accessories,South,Offline,Small Business,2,8754,837.66
+ORD00356,2025-07-03,Office Chair,Furniture,South,Offline,Corporate,7,47285,7762.38
+ORD00357,2025-01-02,Office Chair,Furniture,North,Online,Corporate,1,5118,1373.53
+ORD00358,2025-08-22,Office Chair,Furniture,North,Offline,Corporate,5,83565,19807.5
+ORD00359,2025-08-07,Notebook,Stationery,South,Offline,Corporate,2,198,40.11
+ORD00360,2025-11-15,Backpack,Accessories,West,Offline,Corporate,5,8990,684.87
+ORD00361,2025-12-20,Gel Pen Pack,Stationery,North,Online,Consumer,8,3368,271.05
+ORD00362,2025-10-30,Gel Pen Pack,Stationery,East,Online,Small Business,8,7816,1489.76
+ORD00363,2025-09-05,Mechanical Keyboard,Electronics,East,Online,Small Business,8,124016,8007.38
+ORD00364,2025-10-23,Water Bottle,Accessories,South,Offline,Corporate,4,4320,646.08
+ORD00365,2025-03-18,Gel Pen Pack,Stationery,West,Online,Consumer,1,401,98.34
+ORD00366,2025-06-14,Backpack,Accessories,West,Offline,Consumer,4,17808,1802.57
+ORD00367,2025-08-24,Wireless Mouse,Electronics,North,Offline,Small Business,8,606464,92683.27
+ORD00368,2025-02-22,Laptop Pro 14,Electronics,East,Online,Small Business,7,383222,88949.72
+ORD00369,2025-06-24,Backpack,Accessories,West,Offline,Small Business,6,18114,3239.41
+ORD00370,2025-02-28,Backpack,Accessories,East,Offline,Small Business,2,6418,1545.92
+ORD00371,2025-01-24,Wireless Mouse,Electronics,South,Online,Consumer,3,195726,21233.64
+ORD00372,2025-04-21,Gel Pen Pack,Stationery,North,Online,Corporate,8,6176,1384.32
+ORD00373,2025-12-04,Backpack,Accessories,West,Offline,Small Business,3,2091,370.61
+ORD00374,2025-12-21,Mechanical Keyboard,Electronics,West,Offline,Small Business,3,52581,8725.57
+ORD00375,2025-05-21,Office Chair,Furniture,East,Offline,Small Business,7,77973,6376.74
+ORD00376,2025-11-20,Water Bottle,Accessories,South,Online,Small Business,4,12512,3276.57
+ORD00377,2025-12-22,Water Bottle,Accessories,West,Offline,Corporate,6,29844,7962.83
+ORD00378,2025-09-25,Laptop Pro 14,Electronics,South,Offline,Consumer,2,8024,1638.17
+ORD00379,2025-12-16,Standing Desk,Furniture,North,Offline,Corporate,5,17660,3943.95
+ORD00380,2025-11-12,Wireless Mouse,Electronics,East,Online,Corporate,4,297064,68440.77
+ORD00381,2025-08-02,Gel Pen Pack,Stationery,West,Online,Small Business,6,636,61.51
+ORD00382,2025-10-29,Notebook,Stationery,North,Online,Consumer,4,3996,1103.67
+ORD00383,2025-03-03,Water Bottle,Accessories,South,Offline,Consumer,7,34013,3767.79
+ORD00384,2025-08-27,Notebook,Stationery,East,Offline,Small Business,3,2220,506.03
+ORD00385,2025-07-03,Water Bottle,Accessories,South,Offline,Small Business,2,3612,613.1
+ORD00386,2025-07-26,Water Bottle,Accessories,East,Online,Small Business,2,6036,761.41
+ORD00387,2025-09-01,Water Bottle,Accessories,South,Online,Small Business,1,3950,415.86
+ORD00388,2025-07-15,Notebook,Stationery,East,Offline,Corporate,2,2372,132.08
+ORD00389,2025-06-01,Laptop Pro 14,Electronics,North,Online,Consumer,4,170736,15110.27
+ORD00390,2025-12-17,Office Chair,Furniture,North,Online,Consumer,7,57652,11455.98
+ORD00391,2025-06-19,Backpack,Accessories,North,Online,Corporate,1,1758,409.03
+ORD00392,2025-07-18,Gel Pen Pack,Stationery,North,Online,Small Business,8,5816,811.83
+ORD00393,2025-02-02,USB-C Hub,Electronics,East,Online,Corporate,1,10214,1191.59
+ORD00394,2025-07-15,Backpack,Accessories,West,Offline,Small Business,7,32690,3287.6
+ORD00395,2025-06-02,Mechanical Keyboard,Electronics,West,Online,Corporate,6,12966,772.88
+ORD00396,2025-06-26,Office Chair,Furniture,South,Offline,Consumer,4,90660,7889.19
+ORD00397,2025-04-03,Wireless Mouse,Electronics,East,Online,Consumer,1,72639,14853.78
+ORD00398,2025-09-07,USB-C Hub,Electronics,North,Online,Corporate,6,285060,32947.67
+ORD00399,2025-08-19,Backpack,Accessories,East,Offline,Consumer,6,29598,5338.84
+ORD00400,2025-06-10,Laptop Pro 14,Electronics,South,Offline,Corporate,4,118940,28929.22
+ORD00401,2025-08-17,Backpack,Accessories,North,Offline,Consumer,6,10434,2070.91
+ORD00402,2025-04-11,Water Bottle,Accessories,West,Online,Consumer,5,22270,4348.75
+ORD00403,2025-05-14,Water Bottle,Accessories,East,Online,Corporate,8,17032,4343.68
+ORD00404,2025-09-19,Water Bottle,Accessories,South,Online,Corporate,2,772,156.27
+ORD00405,2025-04-02,Mechanical Keyboard,Electronics,South,Online,Corporate,3,192219,43275.93
+ORD00406,2025-04-30,Notebook,Stationery,West,Online,Consumer,1,819,129.42
+ORD00407,2025-02-22,Notebook,Stationery,West,Offline,Small Business,5,5970,537.21
+ORD00408,2025-09-22,Wireless Mouse,Electronics,East,Offline,Corporate,5,250130,32808.69
+ORD00409,2025-01-04,USB-C Hub,Electronics,East,Online,Consumer,3,175074,29472.74
+ORD00410,2025-03-22,Mechanical Keyboard,Electronics,North,Offline,Small Business,6,477648,112997.05
+ORD00411,2025-09-03,Backpack,Accessories,South,Online,Consumer,4,1932,204.88
+ORD00412,2025-01-21,Water Bottle,Accessories,West,Online,Small Business,3,5322,898.5
+ORD00413,2025-02-13,Standing Desk,Furniture,West,Online,Small Business,4,85496,7628.84
+ORD00414,2025-11-16,Mechanical Keyboard,Electronics,North,Online,Corporate,5,113415,21231.59
+ORD00415,2025-03-09,Gel Pen Pack,Stationery,South,Online,Consumer,2,2300,477.03
+ORD00416,2025-11-11,Backpack,Accessories,South,Online,Small Business,1,1063,171.05
+ORD00417,2025-09-25,Gel Pen Pack,Stationery,West,Offline,Corporate,7,8155,838.19
+ORD00418,2025-12-23,USB-C Hub,Electronics,North,Offline,Small Business,2,112938,25540.65
+ORD00419,2025-07-29,Water Bottle,Accessories,North,Offline,Small Business,5,22900,1765.6
+ORD00420,2025-12-19,Office Chair,Furniture,East,Offline,Small Business,6,80220,11872.28
+ORD00421,2025-10-17,Gel Pen Pack,Stationery,West,Online,Corporate,6,5358,777.14
+ORD00422,2025-10-12,Water Bottle,Accessories,North,Online,Corporate,8,28488,6245.42
+ORD00423,2025-02-21,Mechanical Keyboard,Electronics,North,Online,Corporate,4,269316,51500.18
+ORD00424,2025-02-16,Laptop Pro 14,Electronics,South,Offline,Consumer,3,187566,12142.74
+ORD00425,2025-01-20,USB-C Hub,Electronics,North,Online,Small Business,7,372491,79589.91
+ORD00426,2025-08-13,Backpack,Accessories,South,Online,Small Business,1,2642,250.44
+ORD00427,2025-07-04,Laptop Pro 14,Electronics,East,Offline,Corporate,4,2948,676.05
+ORD00428,2025-04-13,USB-C Hub,Electronics,East,Offline,Corporate,1,9693,2524.56
+ORD00429,2025-11-07,Office Chair,Furniture,North,Online,Small Business,4,58944,5320.17
+ORD00430,2025-06-24,Standing Desk,Furniture,West,Offline,Consumer,2,19888,4169.8
+ORD00431,2025-08-23,Notebook,Stationery,West,Online,Small Business,8,8536,932.97
+ORD00432,2025-06-11,Office Chair,Furniture,East,Online,Corporate,7,128968,27236.53
+ORD00433,2025-07-24,Wireless Mouse,Electronics,South,Offline,Consumer,6,63990,7818.99
+ORD00434,2025-09-13,Office Chair,Furniture,South,Offline,Consumer,4,37724,3874.92
+ORD00435,2025-03-03,Wireless Mouse,Electronics,West,Offline,Small Business,2,130548,35292.14
+ORD00436,2025-09-10,Notebook,Stationery,South,Online,Small Business,5,5630,796.71
+ORD00437,2025-09-02,Gel Pen Pack,Stationery,North,Offline,Corporate,1,886,137.47
+ORD00438,2025-01-07,Laptop Pro 14,Electronics,East,Online,Small Business,4,201728,26863.82
+ORD00439,2025-05-02,Standing Desk,Furniture,West,Online,Corporate,5,107945,9963.34
+ORD00440,2025-07-06,Notebook,Stationery,South,Online,Small Business,7,3136,251.39
+ORD00441,2025-05-01,Standing Desk,Furniture,North,Online,Corporate,7,55468,8807.6
+ORD00442,2025-03-10,Backpack,Accessories,North,Offline,Consumer,6,29430,7282.61
+ORD00443,2025-01-31,Mechanical Keyboard,Electronics,East,Offline,Corporate,4,136120,30117.43
+ORD00444,2025-10-13,Water Bottle,Accessories,South,Online,Corporate,5,6465,845.3
+ORD00445,2025-06-16,Notebook,Stationery,South,Online,Small Business,8,6880,1077.84
+ORD00446,2025-08-04,Notebook,Stationery,East,Offline,Small Business,7,2877,294.86
+ORD00447,2025-11-06,Standing Desk,Furniture,West,Online,Consumer,7,112546,30620.5
+ORD00448,2025-03-06,Laptop Pro 14,Electronics,North,Online,Consumer,4,134732,11908.88
+ORD00449,2025-10-08,Backpack,Accessories,South,Online,Small Business,1,981,72.5
+ORD00450,2025-06-08,Gel Pen Pack,Stationery,South,Online,Consumer,4,3948,316.6
+ORD00451,2025-06-16,Notebook,Stationery,South,Offline,Small Business,8,5096,776.19
+ORD00452,2025-08-11,USB-C Hub,Electronics,West,Offline,Corporate,5,231020,54308.83
+ORD00453,2025-05-14,Gel Pen Pack,Stationery,South,Offline,Corporate,3,240,57.01
+ORD00454,2025-10-01,Backpack,Accessories,East,Online,Consumer,1,374,84.58
+ORD00455,2025-07-11,Water Bottle,Accessories,West,Offline,Consumer,4,14132,1518.85
+ORD00456,2025-02-10,Standing Desk,Furniture,East,Offline,Consumer,7,128996,25688.92
+ORD00457,2025-04-04,Wireless Mouse,Electronics,West,Online,Corporate,3,115971,13057.27
+ORD00458,2025-03-19,Laptop Pro 14,Electronics,South,Offline,Small Business,1,70819,8136.14
+ORD00459,2025-04-30,Laptop Pro 14,Electronics,East,Offline,Corporate,2,40900,5261.37
+ORD00460,2025-12-23,Backpack,Accessories,West,Online,Small Business,1,759,84.47
+ORD00461,2025-04-03,Backpack,Accessories,South,Offline,Corporate,4,5196,1424.52
+ORD00462,2025-01-18,Office Chair,Furniture,East,Offline,Consumer,4,18312,2907.03
+ORD00463,2025-10-09,Laptop Pro 14,Electronics,North,Online,Consumer,2,67804,9011.02
+ORD00464,2025-11-21,Office Chair,Furniture,West,Online,Consumer,7,13951,2573.68
+ORD00465,2025-10-25,Laptop Pro 14,Electronics,West,Online,Small Business,8,630768,67622.19
+ORD00466,2025-06-23,USB-C Hub,Electronics,South,Offline,Consumer,1,8534,1980.21
+ORD00467,2025-10-13,Notebook,Stationery,South,Offline,Consumer,6,738,97.7
+ORD00468,2025-12-28,Backpack,Accessories,South,Offline,Corporate,8,34512,3232.0
+ORD00469,2025-05-21,Backpack,Accessories,East,Offline,Corporate,3,11943,1409.33
+ORD00470,2025-11-23,Laptop Pro 14,Electronics,North,Offline,Consumer,7,175126,21673.53
+ORD00471,2025-12-16,Water Bottle,Accessories,East,Online,Consumer,8,23536,3395.19
+ORD00472,2025-12-04,Water Bottle,Accessories,West,Online,Consumer,2,1112,107.28
+ORD00473,2025-10-20,Laptop Pro 14,Electronics,North,Online,Consumer,7,454391,61007.18
+ORD00474,2025-02-10,Backpack,Accessories,North,Offline,Small Business,8,26584,6185.5
+ORD00475,2025-02-06,Laptop Pro 14,Electronics,South,Offline,Consumer,5,54575,3999.35
+ORD00476,2025-09-27,Office Chair,Furniture,West,Online,Small Business,4,87960,19554.8
+ORD00477,2025-07-03,USB-C Hub,Electronics,East,Online,Small Business,8,453416,80024.32
+ORD00478,2025-08-15,USB-C Hub,Electronics,West,Offline,Small Business,6,252042,36505.5
+ORD00479,2025-10-16,Office Chair,Furniture,West,Offline,Consumer,4,78120,21184.57
+ORD00480,2025-05-26,Laptop Pro 14,Electronics,South,Online,Corporate,1,68544,8162.0
+ORD00481,2025-12-20,Laptop Pro 14,Electronics,East,Online,Consumer,5,366345,21496.89
+ORD00482,2025-07-07,Standing Desk,Furniture,South,Online,Small Business,4,39584,7173.1
+ORD00483,2025-09-05,Notebook,Stationery,West,Online,Consumer,3,825,48.34
+ORD00484,2025-06-28,Notebook,Stationery,West,Online,Corporate,7,3808,745.58
+ORD00485,2025-01-22,Water Bottle,Accessories,South,Online,Consumer,6,17862,2957.1
+ORD00486,2025-08-17,Gel Pen Pack,Stationery,East,Online,Corporate,2,1346,113.12
+ORD00487,2025-01-26,USB-C Hub,Electronics,South,Online,Corporate,7,245791,36852.17
+ORD00488,2025-04-12,Water Bottle,Accessories,South,Online,Consumer,8,39176,7509.23
+ORD00489,2025-08-09,Standing Desk,Furniture,East,Online,Corporate,6,26610,3922.7
+ORD00490,2025-11-01,Notebook,Stationery,West,Online,Consumer,1,796,153.89
+ORD00491,2025-12-17,Office Chair,Furniture,South,Offline,Consumer,6,25866,2739.24
+ORD00492,2025-12-22,Notebook,Stationery,South,Online,Small Business,2,2088,263.78
+ORD00493,2025-05-13,Water Bottle,Accessories,North,Offline,Consumer,8,27080,4985.19
+ORD00494,2025-05-26,Laptop Pro 14,Electronics,East,Offline,Consumer,4,145028,9472.87
+ORD00495,2025-05-30,Laptop Pro 14,Electronics,West,Online,Consumer,7,216993,55960.45
+ORD00496,2025-09-14,Office Chair,Furniture,East,Offline,Corporate,8,198768,21248.34
+ORD00497,2025-03-22,Gel Pen Pack,Stationery,South,Offline,Consumer,1,800,155.04
+ORD00498,2025-07-18,Standing Desk,Furniture,West,Online,Consumer,1,10681,1373.69
+ORD00499,2025-09-24,Gel Pen Pack,Stationery,East,Offline,Small Business,4,1568,428.41
+ORD00500,2025-04-16,Mechanical Keyboard,Electronics,South,Offline,Consumer,3,230568,27914.78
+ORD00501,2025-03-22,USB-C Hub,Electronics,South,Online,Corporate,6,57528,5312.77
+ORD00502,2025-07-30,Gel Pen Pack,Stationery,North,Online,Consumer,5,3200,733.42
+ORD00503,2025-11-10,Laptop Pro 14,Electronics,North,Offline,Consumer,5,375115,38678.05
+ORD00504,2025-03-10,Backpack,Accessories,South,Online,Consumer,8,34600,5500.87
+ORD00505,2025-07-29,Laptop Pro 14,Electronics,North,Online,Corporate,1,36070,8090.09
+ORD00506,2025-09-08,USB-C Hub,Electronics,West,Offline,Corporate,6,364026,83190.64
+ORD00507,2025-10-20,USB-C Hub,Electronics,North,Online,Small Business,1,68942,16560.72
+ORD00508,2025-07-22,Water Bottle,Accessories,West,Offline,Corporate,1,703,65.85
+ORD00509,2025-08-25,Standing Desk,Furniture,West,Offline,Consumer,3,33441,8622.61
+ORD00510,2025-02-27,Water Bottle,Accessories,East,Offline,Consumer,3,4224,593.07
+ORD00511,2025-08-21,Mechanical Keyboard,Electronics,South,Online,Consumer,4,241184,50430.37
+ORD00512,2025-12-28,Wireless Mouse,Electronics,South,Offline,Small Business,8,386168,83868.35
+ORD00513,2025-01-23,Gel Pen Pack,Stationery,South,Online,Corporate,3,1161,290.05
+ORD00514,2025-06-08,Standing Desk,Furniture,South,Online,Small Business,8,176216,45228.42
+ORD00515,2025-01-07,Standing Desk,Furniture,West,Online,Consumer,8,142712,27091.92
+ORD00516,2025-12-04,USB-C Hub,Electronics,North,Online,Small Business,8,481376,90633.38
+ORD00517,2025-11-14,Standing Desk,Furniture,North,Online,Consumer,4,30224,6052.47
+ORD00518,2025-11-05,USB-C Hub,Electronics,South,Online,Small Business,5,220495,32170.24
+ORD00519,2025-11-09,Standing Desk,Furniture,East,Offline,Corporate,3,61413,4386.06
+ORD00520,2025-02-04,Gel Pen Pack,Stationery,East,Offline,Small Business,7,4753,384.73
+ORD00521,2025-09-26,Gel Pen Pack,Stationery,North,Offline,Small Business,4,796,144.41
+ORD00522,2025-12-28,USB-C Hub,Electronics,East,Online,Small Business,5,283370,48410.93
+ORD00523,2025-09-12,USB-C Hub,Electronics,North,Online,Consumer,8,522024,143676.28
+ORD00524,2025-11-17,Backpack,Accessories,East,Online,Consumer,2,7382,446.34
+ORD00525,2025-12-20,Office Chair,Furniture,East,Online,Consumer,5,18610,3099.28
+ORD00526,2025-06-24,Notebook,Stationery,East,Offline,Corporate,7,973,92.07
+ORD00527,2025-11-27,Laptop Pro 14,Electronics,West,Offline,Small Business,3,191430,49018.25
+ORD00528,2025-09-24,Laptop Pro 14,Electronics,South,Offline,Corporate,5,373740,64751.82
+ORD00529,2025-03-18,Wireless Mouse,Electronics,West,Online,Small Business,5,23925,5831.8
+ORD00530,2025-06-07,Wireless Mouse,Electronics,South,Offline,Corporate,6,29070,4776.86
+ORD00531,2025-04-21,Standing Desk,Furniture,North,Offline,Small Business,5,25885,5924.86
+ORD00532,2025-09-05,Laptop Pro 14,Electronics,East,Online,Consumer,3,76893,9333.46
+ORD00533,2025-12-13,Water Bottle,Accessories,North,Online,Corporate,3,10425,2232.47
+ORD00534,2025-12-18,Laptop Pro 14,Electronics,East,Online,Small Business,2,88768,15066.85
+ORD00535,2025-11-24,Standing Desk,Furniture,East,Offline,Small Business,4,32284,3668.41
+ORD00536,2025-05-20,Wireless Mouse,Electronics,North,Online,Small Business,3,64029,17313.99
+ORD00537,2025-10-09,Notebook,Stationery,East,Offline,Small Business,6,3960,354.0
+ORD00538,2025-01-26,Backpack,Accessories,North,Offline,Corporate,3,3501,483.94
+ORD00539,2025-12-27,Mechanical Keyboard,Electronics,North,Offline,Small Business,8,378496,80985.54
+ORD00540,2025-02-17,Mechanical Keyboard,Electronics,South,Online,Small Business,8,107584,17022.54
+ORD00541,2025-07-06,Standing Desk,Furniture,North,Online,Corporate,7,170968,26372.69
+ORD00542,2025-06-29,Wireless Mouse,Electronics,South,Online,Corporate,8,489240,92476.76
+ORD00543,2025-06-16,Wireless Mouse,Electronics,South,Online,Small Business,2,80598,14976.98
+ORD00544,2025-09-04,Mechanical Keyboard,Electronics,West,Offline,Small Business,7,65506,15092.07
+ORD00545,2025-03-30,Office Chair,Furniture,North,Offline,Consumer,2,34890,4355.56
+ORD00546,2025-07-27,Standing Desk,Furniture,North,Online,Consumer,2,10126,1657.5
+ORD00547,2025-10-25,Mechanical Keyboard,Electronics,West,Offline,Consumer,1,19931,3431.9
+ORD00548,2025-12-15,Office Chair,Furniture,East,Online,Small Business,6,121116,26051.08
+ORD00549,2025-11-10,Laptop Pro 14,Electronics,North,Online,Small Business,7,121926,31365.15
+ORD00550,2025-07-03,Water Bottle,Accessories,West,Offline,Small Business,2,7672,1622.71
+ORD00551,2025-07-27,Gel Pen Pack,Stationery,South,Offline,Corporate,7,3584,570.65
+ORD00552,2025-03-20,Gel Pen Pack,Stationery,South,Offline,Small Business,5,515,102.55
+ORD00553,2025-03-11,Gel Pen Pack,Stationery,West,Online,Corporate,2,1862,475.79
+ORD00554,2025-08-06,Water Bottle,Accessories,North,Offline,Small Business,8,14576,2152.84
+ORD00555,2025-12-31,Office Chair,Furniture,West,Offline,Consumer,5,96980,26668.89
+ORD00556,2025-09-04,USB-C Hub,Electronics,North,Online,Corporate,2,38646,6527.25
+ORD00557,2025-12-17,Wireless Mouse,Electronics,West,Offline,Corporate,5,38085,6011.33
+ORD00558,2025-05-31,Notebook,Stationery,West,Online,Small Business,5,3510,385.76
+ORD00559,2025-12-03,Laptop Pro 14,Electronics,North,Offline,Corporate,5,21390,1693.42
+ORD00560,2025-11-12,Mechanical Keyboard,Electronics,South,Offline,Corporate,5,183865,34728.23
+ORD00561,2025-05-14,Mechanical Keyboard,Electronics,North,Online,Small Business,4,257036,33120.38
+ORD00562,2025-09-11,Mechanical Keyboard,Electronics,East,Online,Small Business,7,356454,35109.67
+ORD00563,2025-03-01,Standing Desk,Furniture,South,Offline,Small Business,1,16704,1993.03
+ORD00564,2025-08-31,Gel Pen Pack,Stationery,West,Offline,Small Business,5,4850,564.65
+ORD00565,2025-09-29,Notebook,Stationery,East,Offline,Corporate,1,804,153.09
+ORD00566,2025-02-20,Standing Desk,Furniture,South,Offline,Small Business,5,71585,15669.39
+ORD00567,2025-06-10,Mechanical Keyboard,Electronics,North,Offline,Corporate,1,1810,131.17
+ORD00568,2025-05-26,Office Chair,Furniture,South,Online,Small Business,5,13075,824.81
+ORD00569,2025-02-14,Wireless Mouse,Electronics,East,Offline,Corporate,3,149931,31485.56
+ORD00570,2025-11-24,Wireless Mouse,Electronics,North,Offline,Consumer,8,295408,25774.99
+ORD00571,2025-07-18,Gel Pen Pack,Stationery,West,Online,Small Business,6,3732,564.77
+ORD00572,2025-04-02,Gel Pen Pack,Stationery,North,Offline,Small Business,8,9496,951.77
+ORD00573,2025-02-22,Standing Desk,Furniture,West,Online,Small Business,1,3807,206.78
+ORD00574,2025-01-20,Laptop Pro 14,Electronics,West,Offline,Corporate,7,249354,45424.13
+ORD00575,2025-02-05,Gel Pen Pack,Stationery,East,Offline,Small Business,4,4268,770.23
+ORD00576,2025-07-25,Standing Desk,Furniture,West,Offline,Small Business,1,13471,922.83
+ORD00577,2025-04-01,Office Chair,Furniture,North,Offline,Corporate,1,23150,4862.73
+ORD00578,2025-11-20,Wireless Mouse,Electronics,South,Offline,Corporate,8,204264,11404.85
+ORD00579,2025-10-04,Wireless Mouse,Electronics,North,Offline,Small Business,5,330970,19368.3
+ORD00580,2025-07-27,Laptop Pro 14,Electronics,South,Online,Consumer,2,56890,15145.29
+ORD00581,2025-03-14,Laptop Pro 14,Electronics,South,Online,Consumer,8,25584,5405.85
+ORD00582,2025-06-07,Laptop Pro 14,Electronics,North,Online,Corporate,2,120986,28806.05
+ORD00583,2025-11-12,USB-C Hub,Electronics,West,Offline,Consumer,4,35884,8491.94
+ORD00584,2025-10-07,USB-C Hub,Electronics,North,Offline,Consumer,3,128553,16347.55
+ORD00585,2025-03-28,Gel Pen Pack,Stationery,North,Online,Consumer,6,5868,1542.73
+ORD00586,2025-07-12,USB-C Hub,Electronics,North,Offline,Corporate,3,8244,425.9
+ORD00587,2025-12-21,Backpack,Accessories,South,Online,Small Business,3,13755,2112.72
+ORD00588,2025-11-02,Laptop Pro 14,Electronics,North,Online,Consumer,3,198663,25827.45
+ORD00589,2025-09-29,Wireless Mouse,Electronics,South,Offline,Consumer,2,96270,15092.22
+ORD00590,2025-02-27,Office Chair,Furniture,North,Online,Small Business,3,53406,10901.92
+ORD00591,2025-05-26,Notebook,Stationery,North,Online,Consumer,4,3056,183.25
+ORD00592,2025-09-06,Laptop Pro 14,Electronics,East,Online,Consumer,2,19974,2923.9
+ORD00593,2025-04-27,Notebook,Stationery,North,Offline,Small Business,2,978,249.4
+ORD00594,2025-01-28,Backpack,Accessories,South,Offline,Small Business,7,12306,1711.59
+ORD00595,2025-11-20,Office Chair,Furniture,North,Offline,Consumer,6,48756,2797.7
+ORD00596,2025-08-27,Wireless Mouse,Electronics,South,Online,Small Business,8,444136,112754.61
+ORD00597,2025-04-28,Water Bottle,Accessories,West,Offline,Consumer,2,4146,771.42
+ORD00598,2025-05-07,Gel Pen Pack,Stationery,North,Offline,Consumer,4,2140,556.75
+ORD00599,2025-08-29,Laptop Pro 14,Electronics,North,Offline,Corporate,1,56497,13346.56
+ORD00600,2025-02-12,Office Chair,Furniture,North,Online,Corporate,1,8643,1020.15
+ORD00601,2025-03-24,Standing Desk,Furniture,South,Offline,Consumer,8,165000,25849.72
+ORD00602,2025-11-17,Notebook,Stationery,East,Online,Corporate,8,1792,457.84
+ORD00603,2025-05-19,Gel Pen Pack,Stationery,East,Online,Consumer,4,3068,516.62
+ORD00604,2025-07-07,Gel Pen Pack,Stationery,North,Online,Consumer,8,6640,1321.89
+ORD00605,2025-05-03,Notebook,Stationery,East,Offline,Corporate,2,1018,125.93
+ORD00606,2025-02-02,Laptop Pro 14,Electronics,North,Offline,Small Business,6,275694,47181.44
+ORD00607,2025-12-14,Water Bottle,Accessories,West,Online,Consumer,5,4185,390.55
+ORD00608,2025-04-02,Gel Pen Pack,Stationery,South,Offline,Consumer,5,2085,157.97
+ORD00609,2025-09-24,Office Chair,Furniture,West,Offline,Small Business,1,15149,2408.66
+ORD00610,2025-05-30,Laptop Pro 14,Electronics,West,Offline,Small Business,4,35800,7098.23
+ORD00611,2025-09-06,Notebook,Stationery,East,Online,Corporate,8,2800,250.6
+ORD00612,2025-05-28,Notebook,Stationery,South,Offline,Consumer,1,662,178.69
+ORD00613,2025-12-29,Mechanical Keyboard,Electronics,South,Offline,Corporate,3,65505,18247.58
+ORD00614,2025-04-05,Notebook,Stationery,South,Offline,Corporate,4,604,166.07
+ORD00615,2025-03-25,Water Bottle,Accessories,West,Offline,Consumer,5,21955,4978.5
+ORD00616,2025-10-07,Laptop Pro 14,Electronics,West,Offline,Small Business,6,236634,48127.61
+ORD00617,2025-09-03,Wireless Mouse,Electronics,South,Offline,Corporate,1,18974,1056.91
+ORD00618,2025-06-17,Wireless Mouse,Electronics,East,Online,Consumer,1,26278,6035.93
+ORD00619,2025-10-03,Wireless Mouse,Electronics,North,Offline,Corporate,8,97216,15827.45
+ORD00620,2025-08-07,Mechanical Keyboard,Electronics,East,Offline,Small Business,6,307848,39814.49
+ORD00621,2025-04-21,Wireless Mouse,Electronics,West,Offline,Consumer,8,441392,103861.63
+ORD00622,2025-11-03,USB-C Hub,Electronics,East,Online,Small Business,2,39054,10830.77
+ORD00623,2025-02-15,Gel Pen Pack,Stationery,West,Online,Consumer,1,639,57.65
+ORD00624,2025-07-15,Mechanical Keyboard,Electronics,East,Offline,Small Business,5,366480,88671.52
+ORD00625,2025-04-25,Backpack,Accessories,West,Online,Small Business,1,2758,744.35
+ORD00626,2025-08-02,Standing Desk,Furniture,East,Offline,Consumer,3,72117,5585.58
+ORD00627,2025-07-05,USB-C Hub,Electronics,North,Offline,Small Business,8,598640,164074.96
+ORD00628,2025-01-09,USB-C Hub,Electronics,South,Offline,Consumer,5,110220,13615.11
+ORD00629,2025-05-20,Laptop Pro 14,Electronics,North,Online,Small Business,6,334116,38980.29
+ORD00630,2025-02-18,Mechanical Keyboard,Electronics,East,Online,Small Business,3,215895,24274.28
+ORD00631,2025-06-30,USB-C Hub,Electronics,West,Offline,Corporate,3,7170,973.64
+ORD00632,2025-02-22,Mechanical Keyboard,Electronics,North,Offline,Corporate,4,83828,19521.41
+ORD00633,2025-03-01,Wireless Mouse,Electronics,South,Offline,Small Business,3,8931,1866.06
+ORD00634,2025-06-25,Water Bottle,Accessories,South,Online,Corporate,3,6363,506.52
+ORD00635,2025-04-18,Mechanical Keyboard,Electronics,West,Offline,Consumer,3,33006,1793.07
+ORD00636,2025-02-25,Office Chair,Furniture,East,Online,Consumer,1,20937,1619.52
+ORD00637,2025-12-08,Standing Desk,Furniture,East,Online,Consumer,1,5556,513.93
+ORD00638,2025-05-23,Mechanical Keyboard,Electronics,North,Online,Small Business,6,281178,46711.85
+ORD00639,2025-09-28,Laptop Pro 14,Electronics,North,Online,Small Business,4,103224,5263.98
+ORD00640,2025-07-07,Backpack,Accessories,West,Offline,Consumer,3,5343,1292.96
+ORD00641,2025-04-27,Water Bottle,Accessories,South,Offline,Corporate,7,28812,2171.64
+ORD00642,2025-10-13,Standing Desk,Furniture,West,Offline,Small Business,1,12251,1696.76
+ORD00643,2025-04-26,Backpack,Accessories,West,Offline,Consumer,7,6090,1557.78
+ORD00644,2025-12-12,Laptop Pro 14,Electronics,North,Online,Consumer,8,115880,23345.89
+ORD00645,2025-07-25,Gel Pen Pack,Stationery,West,Online,Consumer,2,1648,210.75
+ORD00646,2025-09-13,Gel Pen Pack,Stationery,West,Offline,Small Business,5,3195,421.43
+ORD00647,2025-03-17,Standing Desk,Furniture,South,Online,Consumer,8,44024,7236.36
+ORD00648,2025-02-04,Laptop Pro 14,Electronics,North,Online,Small Business,8,33648,2864.44
+ORD00649,2025-09-10,Water Bottle,Accessories,East,Online,Consumer,8,34528,5735.2
+ORD00650,2025-03-02,Gel Pen Pack,Stationery,North,Online,Small Business,7,5950,926.54
+ORD00651,2025-12-28,Standing Desk,Furniture,West,Online,Small Business,3,46836,10051.77
+ORD00652,2025-12-04,Backpack,Accessories,East,Offline,Small Business,8,35600,2236.38
+ORD00653,2025-11-12,Gel Pen Pack,Stationery,South,Offline,Corporate,6,1230,228.54
+ORD00654,2025-01-14,USB-C Hub,Electronics,West,Offline,Consumer,6,303492,84415.53
+ORD00655,2025-05-07,Office Chair,Furniture,North,Offline,Consumer,4,83664,20903.97
+ORD00656,2025-10-03,Laptop Pro 14,Electronics,West,Offline,Consumer,6,33594,5657.05
+ORD00657,2025-10-29,Backpack,Accessories,West,Online,Small Business,1,2941,534.33
+ORD00658,2025-06-22,Office Chair,Furniture,East,Offline,Consumer,8,186944,35783.03
+ORD00659,2025-11-22,Backpack,Accessories,West,Online,Small Business,2,4944,301.25
+ORD00660,2025-10-24,Wireless Mouse,Electronics,West,Offline,Consumer,2,156552,28222.96
+ORD00661,2025-02-09,Notebook,Stationery,West,Offline,Corporate,5,4830,589.6
+ORD00662,2025-09-21,USB-C Hub,Electronics,West,Online,Small Business,8,579760,144025.87
+ORD00663,2025-05-18,Backpack,Accessories,West,Online,Consumer,7,32046,3081.19
+ORD00664,2025-12-17,Mechanical Keyboard,Electronics,West,Offline,Corporate,5,288835,56554.85
+ORD00665,2025-05-12,Mechanical Keyboard,Electronics,South,Offline,Corporate,4,215588,20295.6
+ORD00666,2025-10-14,Backpack,Accessories,South,Online,Corporate,7,13678,1185.23
+ORD00667,2025-12-04,Standing Desk,Furniture,North,Offline,Small Business,3,52260,12945.03
+ORD00668,2025-02-02,Standing Desk,Furniture,South,Online,Consumer,7,164563,43926.36
+ORD00669,2025-09-14,USB-C Hub,Electronics,North,Online,Small Business,2,138228,22694.79
+ORD00670,2025-06-10,Wireless Mouse,Electronics,North,Online,Consumer,6,463728,46438.62
+ORD00671,2025-08-14,Standing Desk,Furniture,North,Offline,Small Business,7,145712,25164.18
+ORD00672,2025-09-01,Gel Pen Pack,Stationery,East,Online,Small Business,4,3292,706.48
+ORD00673,2025-01-18,USB-C Hub,Electronics,East,Online,Small Business,1,32114,6325.12
+ORD00674,2025-08-15,Office Chair,Furniture,South,Offline,Consumer,7,100639,7120.97
+ORD00675,2025-08-13,Mechanical Keyboard,Electronics,West,Offline,Small Business,6,323718,77477.21
+ORD00676,2025-06-20,Gel Pen Pack,Stationery,West,Offline,Corporate,7,4298,280.51
+ORD00677,2025-01-27,Laptop Pro 14,Electronics,East,Offline,Small Business,3,176451,25082.9
+ORD00678,2025-02-26,Wireless Mouse,Electronics,East,Offline,Corporate,3,100248,23288.39
+ORD00679,2025-05-14,Mechanical Keyboard,Electronics,East,Online,Corporate,3,235284,16331.48
+ORD00680,2025-10-20,Gel Pen Pack,Stationery,South,Offline,Small Business,4,2192,600.72
+ORD00681,2025-01-26,Mechanical Keyboard,Electronics,East,Online,Small Business,7,398419,28082.2
+ORD00682,2025-01-08,Wireless Mouse,Electronics,South,Online,Corporate,7,421176,42804.67
+ORD00683,2025-09-11,Standing Desk,Furniture,East,Online,Corporate,7,109431,30520.06
+ORD00684,2025-07-29,Mechanical Keyboard,Electronics,South,Offline,Small Business,3,13413,2576.19
+ORD00685,2025-02-13,Backpack,Accessories,West,Offline,Small Business,1,3556,739.56
+ORD00686,2025-05-12,USB-C Hub,Electronics,South,Offline,Corporate,2,26376,3338.1
+ORD00687,2025-12-10,USB-C Hub,Electronics,West,Offline,Consumer,1,1402,167.65
+ORD00688,2025-01-22,Water Bottle,Accessories,West,Online,Consumer,3,13011,3434.58
+ORD00689,2025-12-30,Notebook,Stationery,South,Offline,Corporate,7,2233,134.33
+ORD00690,2025-08-09,Notebook,Stationery,South,Offline,Small Business,5,3100,378.18
+ORD00691,2025-03-19,Backpack,Accessories,North,Offline,Corporate,8,5976,614.74
+ORD00692,2025-12-28,Mechanical Keyboard,Electronics,West,Offline,Corporate,8,463224,70201.38
+ORD00693,2025-03-17,Wireless Mouse,Electronics,South,Offline,Small Business,2,93046,8518.42
+ORD00694,2025-04-19,USB-C Hub,Electronics,South,Offline,Small Business,1,69645,18225.75
+ORD00695,2025-06-18,Wireless Mouse,Electronics,North,Offline,Consumer,1,37961,5159.6
+ORD00696,2025-02-11,Laptop Pro 14,Electronics,North,Offline,Corporate,8,508760,63985.83
+ORD00697,2025-03-08,USB-C Hub,Electronics,North,Offline,Consumer,4,28320,6614.81
+ORD00698,2025-05-11,Gel Pen Pack,Stationery,South,Offline,Corporate,3,786,193.39
+ORD00699,2025-11-28,Standing Desk,Furniture,East,Online,Corporate,3,33846,7420.89
+ORD00700,2025-07-08,Wireless Mouse,Electronics,West,Online,Corporate,4,259500,28999.19
+ORD00701,2025-11-11,Notebook,Stationery,East,Offline,Small Business,3,2856,169.36
+ORD00702,2025-11-28,Office Chair,Furniture,West,Online,Corporate,3,56331,6582.94
+ORD00703,2025-03-18,Standing Desk,Furniture,North,Online,Consumer,3,28941,3413.9
+ORD00704,2025-02-25,Water Bottle,Accessories,East,Offline,Small Business,7,34692,8220.26
+ORD00705,2025-09-15,Wireless Mouse,Electronics,West,Online,Consumer,1,15633,3608.42
+ORD00706,2025-12-27,Gel Pen Pack,Stationery,East,Offline,Consumer,5,5055,978.02
+ORD00707,2025-04-05,Office Chair,Furniture,North,Offline,Consumer,2,19994,3457.09
+ORD00708,2025-03-29,Laptop Pro 14,Electronics,East,Offline,Corporate,8,488112,58399.67
+ORD00709,2025-03-06,Wireless Mouse,Electronics,South,Online,Consumer,3,7554,1587.0
+ORD00710,2025-11-29,Backpack,Accessories,West,Online,Corporate,3,5589,390.12
+ORD00711,2025-01-12,Gel Pen Pack,Stationery,West,Online,Consumer,2,1982,314.03
+ORD00712,2025-10-19,Standing Desk,Furniture,West,Offline,Corporate,7,87073,16978.74
+ORD00713,2025-11-02,USB-C Hub,Electronics,West,Online,Small Business,5,27755,4664.83
+ORD00714,2025-09-28,Laptop Pro 14,Electronics,West,Offline,Consumer,1,56012,3618.79
+ORD00715,2025-11-15,Backpack,Accessories,South,Offline,Corporate,6,2820,245.64
+ORD00716,2025-04-29,Backpack,Accessories,East,Offline,Corporate,4,16548,1326.59
+ORD00717,2025-08-30,Notebook,Stationery,South,Online,Small Business,3,768,61.2
+ORD00718,2025-02-21,Backpack,Accessories,North,Offline,Corporate,7,14105,2511.69
+ORD00719,2025-12-13,Notebook,Stationery,North,Online,Consumer,3,435,55.54
+ORD00720,2025-04-25,Water Bottle,Accessories,East,Online,Small Business,8,5456,1239.18
+ORD00721,2025-11-06,Water Bottle,Accessories,North,Online,Small Business,2,2416,662.4
+ORD00722,2025-03-27,Wireless Mouse,Electronics,West,Online,Consumer,2,55240,11759.36
+ORD00723,2025-06-21,Notebook,Stationery,North,Online,Corporate,3,2937,666.47
+ORD00724,2025-05-27,Notebook,Stationery,South,Online,Small Business,3,2526,335.83
+ORD00725,2025-04-27,Gel Pen Pack,Stationery,East,Online,Corporate,3,2754,740.61
+ORD00726,2025-01-06,Mechanical Keyboard,Electronics,South,Offline,Consumer,2,23624,6516.62
+ORD00727,2025-01-19,Gel Pen Pack,Stationery,East,Offline,Corporate,3,3432,502.58
+ORD00728,2025-05-24,Laptop Pro 14,Electronics,West,Offline,Small Business,3,160932,31156.87
+ORD00729,2025-04-12,Gel Pen Pack,Stationery,South,Offline,Consumer,5,5900,824.22
+ORD00730,2025-09-19,Wireless Mouse,Electronics,East,Online,Corporate,5,345160,19472.2
+ORD00731,2025-09-16,Gel Pen Pack,Stationery,North,Online,Corporate,2,1222,160.73
+ORD00732,2025-10-21,Standing Desk,Furniture,South,Offline,Corporate,1,12607,2702.55
+ORD00733,2025-12-08,Standing Desk,Furniture,South,Offline,Corporate,3,55584,6970.5
+ORD00734,2025-03-17,Wireless Mouse,Electronics,South,Offline,Consumer,7,382956,56571.77
+ORD00735,2025-02-09,Backpack,Accessories,West,Offline,Corporate,6,21204,5312.95
+ORD00736,2025-08-02,Backpack,Accessories,South,Online,Small Business,3,12813,2736.4
+ORD00737,2025-08-22,Office Chair,Furniture,West,Online,Consumer,8,53112,10004.6
+ORD00738,2025-10-20,Notebook,Stationery,East,Offline,Corporate,5,1965,266.13
+ORD00739,2025-01-15,Backpack,Accessories,East,Offline,Consumer,3,2094,555.89
+ORD00740,2025-09-08,Mechanical Keyboard,Electronics,West,Offline,Small Business,1,16733,4186.56
+ORD00741,2025-10-17,Standing Desk,Furniture,West,Offline,Small Business,8,110904,24980.99
+ORD00742,2025-03-18,Backpack,Accessories,West,Offline,Small Business,6,20832,2157.14
+ORD00743,2025-12-10,Laptop Pro 14,Electronics,East,Online,Small Business,8,296448,63042.03
+ORD00744,2025-02-13,Water Bottle,Accessories,West,Online,Consumer,4,19884,3380.35
+ORD00745,2025-04-03,Water Bottle,Accessories,East,Offline,Small Business,1,3939,273.64
+ORD00746,2025-09-09,Laptop Pro 14,Electronics,East,Offline,Corporate,1,45258,2513.32
+ORD00747,2025-02-28,Wireless Mouse,Electronics,North,Online,Corporate,2,143424,13196.99
+ORD00748,2025-12-14,Gel Pen Pack,Stationery,North,Offline,Corporate,3,2238,125.89
+ORD00749,2025-06-13,Wireless Mouse,Electronics,North,Online,Consumer,3,164427,43830.13
+ORD00750,2025-11-02,Office Chair,Furniture,East,Online,Corporate,4,72664,19499.54
+ORD00751,2025-10-11,Backpack,Accessories,North,Offline,Small Business,7,25466,4984.07
+ORD00752,2025-12-12,USB-C Hub,Electronics,West,Online,Small Business,2,65970,11920.55
+ORD00753,2025-04-15,Water Bottle,Accessories,West,Offline,Consumer,3,6924,1202.24
+ORD00754,2025-08-26,Laptop Pro 14,Electronics,East,Offline,Corporate,5,113195,12775.15
+ORD00755,2025-10-27,Office Chair,Furniture,North,Offline,Small Business,5,33945,2243.26
+ORD00756,2025-03-13,Wireless Mouse,Electronics,East,Offline,Small Business,5,286590,72594.47
+ORD00757,2025-05-20,Backpack,Accessories,East,Online,Small Business,4,16264,4400.52
+ORD00758,2025-11-27,Mechanical Keyboard,Electronics,West,Offline,Small Business,1,63159,9159.79
+ORD00759,2025-11-29,Wireless Mouse,Electronics,West,Offline,Corporate,2,142602,18707.78
+ORD00760,2025-12-23,Mechanical Keyboard,Electronics,South,Online,Corporate,1,17053,2596.37
+ORD00761,2025-04-09,Notebook,Stationery,North,Offline,Corporate,2,1118,304.63
+ORD00762,2025-04-18,USB-C Hub,Electronics,West,Online,Small Business,1,26401,6602.38
+ORD00763,2025-12-04,Office Chair,Furniture,South,Offline,Consumer,3,62316,4942.23
+ORD00764,2025-12-21,Laptop Pro 14,Electronics,North,Offline,Corporate,5,370575,73159.75
+ORD00765,2025-05-21,Gel Pen Pack,Stationery,North,Online,Consumer,2,2188,369.7
+ORD00766,2025-08-04,Standing Desk,Furniture,North,Online,Small Business,8,13352,1695.47
+ORD00767,2025-02-08,Gel Pen Pack,Stationery,North,Online,Corporate,4,3016,194.39
+ORD00768,2025-01-13,Gel Pen Pack,Stationery,East,Online,Corporate,6,1800,188.68
+ORD00769,2025-05-02,Water Bottle,Accessories,North,Online,Consumer,2,2166,419.84
+ORD00770,2025-07-13,Laptop Pro 14,Electronics,West,Online,Consumer,6,55338,3464.24
+ORD00771,2025-10-14,Laptop Pro 14,Electronics,West,Online,Small Business,1,39355,7555.35
+ORD00772,2025-01-06,USB-C Hub,Electronics,North,Offline,Small Business,8,408168,52291.13
+ORD00773,2025-10-28,Notebook,Stationery,South,Online,Small Business,4,420,78.27
+ORD00774,2025-05-12,Water Bottle,Accessories,North,Online,Consumer,6,10938,1158.61
+ORD00775,2025-10-27,Standing Desk,Furniture,South,Online,Corporate,7,159985,29476.14
+ORD00776,2025-11-05,Standing Desk,Furniture,South,Online,Consumer,6,81510,15069.66
+ORD00777,2025-10-14,Water Bottle,Accessories,South,Online,Corporate,1,1941,383.01
+ORD00778,2025-12-08,Office Chair,Furniture,East,Offline,Corporate,8,169224,45945.15
+ORD00779,2025-02-23,Mechanical Keyboard,Electronics,South,Offline,Small Business,8,49840,9814.31
+ORD00780,2025-05-03,Office Chair,Furniture,North,Offline,Consumer,8,110536,10210.9
+ORD00781,2025-07-03,Wireless Mouse,Electronics,East,Online,Consumer,1,73404,11105.58
+ORD00782,2025-04-12,Office Chair,Furniture,South,Online,Consumer,5,43370,5558.21
+ORD00783,2025-04-01,Laptop Pro 14,Electronics,North,Offline,Consumer,5,69815,14006.28
+ORD00784,2025-08-22,Standing Desk,Furniture,West,Online,Consumer,4,54804,15056.49
+ORD00785,2025-03-08,Mechanical Keyboard,Electronics,West,Online,Consumer,4,103296,12718.72
+ORD00786,2025-10-28,USB-C Hub,Electronics,East,Online,Small Business,4,283536,30295.67
+ORD00787,2025-09-08,USB-C Hub,Electronics,East,Offline,Small Business,4,45480,7594.3
+ORD00788,2025-04-02,Backpack,Accessories,West,Online,Consumer,6,26118,4151.83
+ORD00789,2025-04-14,Office Chair,Furniture,West,Online,Corporate,8,115776,17106.51
+ORD00790,2025-10-09,Standing Desk,Furniture,South,Online,Corporate,2,8506,1440.31
+ORD00791,2025-11-15,Water Bottle,Accessories,West,Offline,Corporate,6,23058,3321.72
+ORD00792,2025-01-13,Gel Pen Pack,Stationery,North,Offline,Small Business,3,1869,247.81
+ORD00793,2025-10-07,Water Bottle,Accessories,North,Online,Corporate,2,2542,168.81
+ORD00794,2025-12-12,Office Chair,Furniture,South,Offline,Consumer,6,68514,14545.37
+ORD00795,2025-05-25,Standing Desk,Furniture,South,Offline,Consumer,6,88770,17793.14
+ORD00796,2025-04-18,Office Chair,Furniture,North,Offline,Consumer,8,147216,18895.42
+ORD00797,2025-12-24,Gel Pen Pack,Stationery,South,Online,Corporate,7,7007,398.87
+ORD00798,2025-09-13,Laptop Pro 14,Electronics,West,Offline,Corporate,6,271446,56386.24
+ORD00799,2025-01-12,USB-C Hub,Electronics,West,Offline,Consumer,1,18936,3689.93
+ORD00800,2025-02-02,Gel Pen Pack,Stationery,West,Offline,Consumer,7,2114,382.61
+ORD00801,2025-02-23,Mechanical Keyboard,Electronics,North,Offline,Corporate,3,14706,1366.76
+ORD00802,2025-04-30,Office Chair,Furniture,North,Online,Corporate,5,18965,2556.29
+ORD00803,2025-07-20,Gel Pen Pack,Stationery,North,Offline,Consumer,3,3534,565.43
+ORD00804,2025-04-16,Mechanical Keyboard,Electronics,East,Online,Small Business,5,286745,54152.7
+ORD00805,2025-05-22,Backpack,Accessories,South,Offline,Small Business,4,3296,789.9
+ORD00806,2025-08-24,Backpack,Accessories,West,Offline,Small Business,8,21264,4224.07
+ORD00807,2025-07-20,Standing Desk,Furniture,South,Online,Corporate,3,28989,4502.01
+ORD00808,2025-05-03,Laptop Pro 14,Electronics,North,Online,Corporate,3,109752,22315.99
+ORD00809,2025-10-11,Gel Pen Pack,Stationery,East,Offline,Corporate,2,590,133.52
+ORD00810,2025-05-10,Mechanical Keyboard,Electronics,West,Offline,Corporate,4,268120,17919.79
+ORD00811,2025-04-10,Gel Pen Pack,Stationery,South,Offline,Small Business,7,4151,884.55
+ORD00812,2025-09-06,Backpack,Accessories,East,Online,Consumer,8,31080,2556.6
+ORD00813,2025-11-07,Laptop Pro 14,Electronics,South,Online,Small Business,2,47860,10554.69
+ORD00814,2025-12-13,Laptop Pro 14,Electronics,North,Online,Corporate,5,104095,10392.29
+ORD00815,2025-11-22,Laptop Pro 14,Electronics,North,Online,Corporate,2,103798,6441.24
+ORD00816,2025-05-08,Office Chair,Furniture,North,Offline,Consumer,6,48318,7102.12
+ORD00817,2025-04-23,Wireless Mouse,Electronics,East,Offline,Small Business,2,45408,7622.87
+ORD00818,2025-11-16,Office Chair,Furniture,North,Offline,Corporate,4,57780,5977.56
+ORD00819,2025-01-08,Mechanical Keyboard,Electronics,North,Offline,Small Business,7,295050,45885.72
+ORD00820,2025-07-08,USB-C Hub,Electronics,West,Online,Small Business,1,9525,2157.75
+ORD00821,2025-10-19,Water Bottle,Accessories,South,Offline,Consumer,3,10449,2151.63
+ORD00822,2025-12-08,Notebook,Stationery,South,Online,Consumer,8,928,128.01
+ORD00823,2025-11-12,Laptop Pro 14,Electronics,North,Online,Corporate,2,82362,15858.49
+ORD00824,2025-06-01,Backpack,Accessories,West,Offline,Consumer,4,2440,255.6
+ORD00825,2025-06-12,Standing Desk,Furniture,East,Offline,Consumer,1,15095,1549.84
+ORD00826,2025-10-04,Office Chair,Furniture,South,Offline,Small Business,1,24023,4082.43
+ORD00827,2025-02-03,Laptop Pro 14,Electronics,South,Online,Consumer,8,78984,20994.2
+ORD00828,2025-10-09,USB-C Hub,Electronics,East,Online,Small Business,4,126692,27460.17
+ORD00829,2025-05-06,Office Chair,Furniture,West,Online,Corporate,7,149464,17282.7
+ORD00830,2025-02-10,Backpack,Accessories,West,Online,Corporate,6,24936,3778.22
+ORD00831,2025-07-15,Laptop Pro 14,Electronics,South,Offline,Corporate,7,81263,14396.23
+ORD00832,2025-06-06,Backpack,Accessories,West,Online,Consumer,8,7112,900.69
+ORD00833,2025-01-03,Office Chair,Furniture,West,Offline,Corporate,1,13763,3618.42
+ORD00834,2025-06-07,Backpack,Accessories,South,Online,Corporate,2,6904,1825.35
+ORD00835,2025-06-28,Standing Desk,Furniture,South,Online,Corporate,8,194568,51190.71
+ORD00836,2025-07-05,Laptop Pro 14,Electronics,South,Online,Consumer,1,20083,2178.73
+ORD00837,2025-11-26,Wireless Mouse,Electronics,West,Online,Corporate,7,369754,95872.89
+ORD00838,2025-12-21,Standing Desk,Furniture,North,Online,Small Business,5,94855,20754.72
+ORD00839,2025-06-26,USB-C Hub,Electronics,South,Offline,Consumer,3,107883,5553.46
+ORD00840,2025-02-05,Wireless Mouse,Electronics,East,Online,Small Business,7,486549,43422.49
+ORD00841,2025-04-12,Mechanical Keyboard,Electronics,South,Online,Consumer,8,196424,35441.02
+ORD00842,2025-04-04,Laptop Pro 14,Electronics,South,Online,Corporate,4,138772,34654.6
+ORD00843,2025-07-13,Wireless Mouse,Electronics,West,Offline,Small Business,2,73950,13658.47
+ORD00844,2025-01-05,Wireless Mouse,Electronics,North,Offline,Small Business,1,35575,3505.76
+ORD00845,2025-05-17,Water Bottle,Accessories,East,Offline,Consumer,8,24456,3308.42
+ORD00846,2025-12-07,Notebook,Stationery,North,Online,Corporate,7,1379,345.86
+ORD00847,2025-03-13,Gel Pen Pack,Stationery,South,Offline,Corporate,1,1166,313.36
+ORD00848,2025-12-18,USB-C Hub,Electronics,East,Online,Small Business,8,545520,151011.79
+ORD00849,2025-01-24,Notebook,Stationery,North,Offline,Corporate,6,6432,1415.15
+ORD00850,2025-12-04,Backpack,Accessories,North,Online,Corporate,2,2944,736.2
+ORD00851,2025-06-04,Wireless Mouse,Electronics,South,Online,Consumer,8,181816,36800.96
+ORD00852,2025-12-04,Mechanical Keyboard,Electronics,East,Offline,Corporate,2,29048,7659.11
+ORD00853,2025-05-12,Office Chair,Furniture,West,Online,Small Business,8,186448,36490.87
+ORD00854,2025-04-25,Notebook,Stationery,West,Online,Consumer,2,1722,468.79
+ORD00855,2025-03-01,Standing Desk,Furniture,South,Online,Small Business,5,25745,5672.49
+ORD00856,2025-03-07,Notebook,Stationery,South,Offline,Corporate,6,498,31.99
+ORD00857,2025-07-06,Notebook,Stationery,West,Offline,Consumer,3,1602,225.76
+ORD00858,2025-04-23,Standing Desk,Furniture,North,Offline,Corporate,8,50640,11233.16
+ORD00859,2025-12-19,Water Bottle,Accessories,West,Online,Corporate,2,4134,677.38
+ORD00860,2025-04-18,Mechanical Keyboard,Electronics,South,Online,Small Business,4,30356,3606.09
+ORD00861,2025-06-22,Gel Pen Pack,Stationery,East,Offline,Small Business,7,6167,410.22
+ORD00862,2025-12-25,Office Chair,Furniture,East,Offline,Small Business,7,40523,9946.62
+ORD00863,2025-10-23,Mechanical Keyboard,Electronics,South,Online,Small Business,3,175854,45081.96
+ORD00864,2025-11-30,Office Chair,Furniture,West,Online,Consumer,1,20363,2781.75
+ORD00865,2025-07-02,Wireless Mouse,Electronics,West,Online,Small Business,8,193952,38697.79
+ORD00866,2025-05-06,Gel Pen Pack,Stationery,South,Offline,Small Business,1,892,106.7
+ORD00867,2025-08-26,Wireless Mouse,Electronics,North,Online,Consumer,7,257411,13557.47
+ORD00868,2025-11-25,Backpack,Accessories,North,Online,Corporate,4,10168,2130.78
+ORD00869,2025-11-27,Backpack,Accessories,South,Offline,Small Business,7,7798,973.21
+ORD00870,2025-07-21,Laptop Pro 14,Electronics,South,Online,Consumer,8,72632,16219.23
+ORD00871,2025-12-22,USB-C Hub,Electronics,South,Online,Small Business,3,4191,328.16
+ORD00872,2025-02-14,Mechanical Keyboard,Electronics,South,Offline,Small Business,5,26440,3137.71
+ORD00873,2025-05-08,Laptop Pro 14,Electronics,West,Offline,Small Business,5,33755,5141.96
+ORD00874,2025-11-07,Notebook,Stationery,South,Offline,Consumer,4,684,39.98
+ORD00875,2025-11-05,Mechanical Keyboard,Electronics,West,Online,Small Business,4,313064,68152.16
+ORD00876,2025-05-14,Standing Desk,Furniture,West,Online,Small Business,7,102263,27333.91
+ORD00877,2025-02-06,Office Chair,Furniture,South,Offline,Consumer,5,124550,25057.36
+ORD00878,2025-08-11,Notebook,Stationery,North,Offline,Consumer,7,4102,459.95
+ORD00879,2025-11-24,Notebook,Stationery,South,Offline,Consumer,2,1278,319.29
+ORD00880,2025-07-13,Wireless Mouse,Electronics,East,Offline,Consumer,4,201312,34442.35
+ORD00881,2025-06-28,Water Bottle,Accessories,West,Online,Corporate,5,3460,308.88
+ORD00882,2025-10-10,Water Bottle,Accessories,South,Online,Consumer,7,16954,884.73
+ORD00883,2025-10-18,Gel Pen Pack,Stationery,West,Offline,Consumer,5,4190,863.1
+ORD00884,2025-07-01,Backpack,Accessories,South,Offline,Small Business,8,30432,5165.43
+ORD00885,2025-06-06,Wireless Mouse,Electronics,North,Online,Small Business,7,291837,63588.13
+ORD00886,2025-02-13,Laptop Pro 14,Electronics,South,Offline,Corporate,5,366670,75430.47
+ORD00887,2025-12-17,Water Bottle,Accessories,East,Online,Small Business,2,718,153.84
+ORD00888,2025-12-17,Water Bottle,Accessories,East,Online,Small Business,1,2143,193.31
+ORD00889,2025-01-27,Notebook,Stationery,East,Online,Small Business,7,3003,819.93
+ORD00890,2025-05-29,Wireless Mouse,Electronics,West,Online,Corporate,5,320120,16170.51
+ORD00891,2025-01-19,Water Bottle,Accessories,East,Offline,Corporate,8,2784,533.34
+ORD00892,2025-01-03,Wireless Mouse,Electronics,West,Online,Consumer,6,150600,11040.14
+ORD00893,2025-09-21,Water Bottle,Accessories,East,Online,Corporate,3,1068,91.63
+ORD00894,2025-07-11,Gel Pen Pack,Stationery,North,Offline,Small Business,5,2265,536.02
+ORD00895,2025-03-24,Backpack,Accessories,South,Online,Consumer,3,9726,2462.84
+ORD00896,2025-01-21,Standing Desk,Furniture,South,Offline,Small Business,3,45891,3986.64
+ORD00897,2025-03-02,Standing Desk,Furniture,West,Offline,Consumer,7,136682,17047.55
+ORD00898,2025-02-25,Wireless Mouse,Electronics,South,Online,Small Business,1,17231,915.64
+ORD00899,2025-08-08,Notebook,Stationery,West,Online,Small Business,1,672,108.71
+ORD00900,2025-09-19,Mechanical Keyboard,Electronics,South,Offline,Consumer,3,100194,27921.98
+ORD00901,2025-12-28,Backpack,Accessories,South,Online,Consumer,2,3690,1026.88
+ORD00902,2025-07-25,Mechanical Keyboard,Electronics,South,Online,Consumer,1,36595,1978.4
+ORD00903,2025-07-28,Gel Pen Pack,Stationery,West,Online,Corporate,5,3840,615.23
+ORD00904,2025-05-18,Wireless Mouse,Electronics,North,Online,Consumer,6,224838,27781.75
+ORD00905,2025-01-27,Laptop Pro 14,Electronics,North,Offline,Consumer,6,170904,44255.74
+ORD00906,2025-09-09,Standing Desk,Furniture,South,Offline,Corporate,6,68838,14033.17
+ORD00907,2025-10-29,Notebook,Stationery,North,Online,Consumer,6,3870,713.61
+ORD00908,2025-03-03,USB-C Hub,Electronics,North,Online,Small Business,1,77581,16452.74
+ORD00909,2025-06-25,USB-C Hub,Electronics,South,Offline,Small Business,5,314270,18880.26
+ORD00910,2025-10-14,Standing Desk,Furniture,West,Online,Consumer,6,97170,6371.72
+ORD00911,2025-05-21,USB-C Hub,Electronics,West,Offline,Small Business,3,115995,25561.18
+ORD00912,2025-09-20,Water Bottle,Accessories,West,Offline,Small Business,2,6892,1236.25
+ORD00913,2025-04-16,Standing Desk,Furniture,West,Offline,Corporate,3,20226,5101.11
+ORD00914,2025-06-01,Office Chair,Furniture,South,Offline,Consumer,5,27010,1633.86
+ORD00915,2025-05-23,Mechanical Keyboard,Electronics,North,Offline,Small Business,3,108438,18755.09
+ORD00916,2025-07-08,USB-C Hub,Electronics,East,Offline,Consumer,6,69666,10026.25
+ORD00917,2025-07-02,Laptop Pro 14,Electronics,North,Offline,Small Business,4,149436,25942.0
+ORD00918,2025-11-17,Standing Desk,Furniture,West,Online,Corporate,4,34916,3383.41
+ORD00919,2025-08-11,Office Chair,Furniture,South,Online,Consumer,6,103176,9466.2
+ORD00920,2025-09-09,USB-C Hub,Electronics,West,Online,Consumer,3,113004,28658.74
+ORD00921,2025-02-06,Mechanical Keyboard,Electronics,South,Online,Small Business,7,229915,49797.43
+ORD00922,2025-07-13,Wireless Mouse,Electronics,North,Offline,Consumer,7,23905,1921.99
+ORD00923,2025-01-07,USB-C Hub,Electronics,West,Offline,Consumer,1,14638,1413.06
+ORD00924,2025-06-19,Standing Desk,Furniture,North,Online,Consumer,8,75912,15878.47
+ORD00925,2025-10-06,Wireless Mouse,Electronics,South,Online,Consumer,5,70715,3555.44
+ORD00926,2025-07-17,Gel Pen Pack,Stationery,West,Online,Corporate,3,2001,524.24
+ORD00927,2025-02-26,Mechanical Keyboard,Electronics,North,Offline,Consumer,4,56136,10756.23
+ORD00928,2025-11-06,Laptop Pro 14,Electronics,West,Online,Small Business,3,72117,13551.55
+ORD00929,2025-11-16,Standing Desk,Furniture,East,Online,Consumer,5,24525,4958.91
+ORD00930,2025-12-02,Mechanical Keyboard,Electronics,West,Online,Consumer,3,128028,27642.4
+ORD00931,2025-08-07,USB-C Hub,Electronics,West,Offline,Corporate,5,98305,9027.41
+ORD00932,2025-08-06,Backpack,Accessories,South,Offline,Corporate,8,11456,2686.35
+ORD00933,2025-09-12,Water Bottle,Accessories,West,Online,Small Business,8,27600,1910.81
+ORD00934,2025-05-01,Wireless Mouse,Electronics,South,Online,Consumer,6,6450,1150.85
+ORD00935,2025-07-04,Notebook,Stationery,West,Online,Consumer,3,1125,307.71
+ORD00936,2025-01-29,Office Chair,Furniture,West,Offline,Consumer,3,72897,15935.92
+ORD00937,2025-12-06,Wireless Mouse,Electronics,South,Online,Consumer,2,126396,10589.95
+ORD00938,2025-01-07,Wireless Mouse,Electronics,East,Offline,Corporate,7,142261,31591.14
+ORD00939,2025-08-16,Notebook,Stationery,North,Online,Small Business,1,399,100.81
+ORD00940,2025-01-06,Mechanical Keyboard,Electronics,East,Offline,Small Business,7,393568,84075.4
+ORD00941,2025-08-05,Office Chair,Furniture,South,Online,Corporate,3,13536,3721.36
+ORD00942,2025-01-29,USB-C Hub,Electronics,West,Offline,Consumer,4,208472,33315.02
+ORD00943,2025-07-10,Laptop Pro 14,Electronics,East,Online,Consumer,7,183561,12463.05
+ORD00944,2025-03-25,Standing Desk,Furniture,South,Online,Consumer,2,16886,1573.46
+ORD00945,2025-02-13,Standing Desk,Furniture,East,Online,Corporate,1,17353,2123.2
+ORD00946,2025-07-23,Standing Desk,Furniture,North,Offline,Corporate,4,57200,12104.15
+ORD00947,2025-02-21,Water Bottle,Accessories,North,Offline,Consumer,3,12621,2333.15
+ORD00948,2025-12-16,Mechanical Keyboard,Electronics,South,Online,Small Business,8,88176,22344.9
+ORD00949,2025-11-08,Water Bottle,Accessories,West,Online,Small Business,6,16092,2138.19
+ORD00950,2025-05-03,Gel Pen Pack,Stationery,South,Offline,Small Business,4,4392,1032.5
+ORD00951,2025-09-13,Wireless Mouse,Electronics,East,Offline,Corporate,2,120624,10511.02
+ORD00952,2025-02-06,Wireless Mouse,Electronics,West,Online,Consumer,3,183270,41331.72
+ORD00953,2025-09-07,USB-C Hub,Electronics,South,Offline,Corporate,1,48341,11945.56
+ORD00954,2025-11-16,Water Bottle,Accessories,North,Online,Small Business,6,26664,4093.49
+ORD00955,2025-12-25,Office Chair,Furniture,West,Online,Consumer,1,4950,427.62
+ORD00956,2025-08-25,Gel Pen Pack,Stationery,West,Online,Consumer,2,2078,534.11
+ORD00957,2025-02-25,Mechanical Keyboard,Electronics,East,Offline,Consumer,7,402283,26079.38
+ORD00958,2025-02-28,Backpack,Accessories,South,Online,Corporate,5,7875,2111.78
+ORD00959,2025-01-17,USB-C Hub,Electronics,South,Online,Small Business,7,62146,6157.85
+ORD00960,2025-05-19,Gel Pen Pack,Stationery,North,Offline,Small Business,5,1850,209.05
+ORD00961,2025-08-03,Backpack,Accessories,West,Offline,Corporate,4,4228,1081.69
+ORD00962,2025-04-12,Mechanical Keyboard,Electronics,South,Offline,Corporate,6,333792,69572.6
+ORD00963,2025-07-19,USB-C Hub,Electronics,South,Offline,Small Business,1,74219,16048.11
+ORD00964,2025-01-08,Notebook,Stationery,West,Offline,Small Business,3,3306,251.68
+ORD00965,2025-08-19,Laptop Pro 14,Electronics,South,Offline,Small Business,3,178782,17928.84
+ORD00966,2025-03-27,Water Bottle,Accessories,North,Offline,Corporate,7,13055,3570.56
+ORD00967,2025-06-04,Laptop Pro 14,Electronics,East,Offline,Small Business,5,332545,48296.29
+ORD00968,2025-09-25,Gel Pen Pack,Stationery,South,Offline,Corporate,6,6114,830.39
+ORD00969,2025-12-04,Standing Desk,Furniture,North,Online,Small Business,7,171542,40375.18
+ORD00970,2025-11-12,Laptop Pro 14,Electronics,North,Offline,Corporate,7,100016,19574.21
+ORD00971,2025-04-25,Office Chair,Furniture,North,Offline,Corporate,8,111896,27633.7
+ORD00972,2025-11-27,Gel Pen Pack,Stationery,East,Offline,Corporate,7,3766,433.95
+ORD00973,2025-01-03,Office Chair,Furniture,East,Offline,Consumer,7,14056,3258.42
+ORD00974,2025-08-09,USB-C Hub,Electronics,West,Online,Small Business,4,294164,70766.0
+ORD00975,2025-03-30,Gel Pen Pack,Stationery,South,Online,Small Business,7,2828,291.63
+ORD00976,2025-07-20,USB-C Hub,Electronics,North,Offline,Consumer,5,365850,26139.44
+ORD00977,2025-03-20,USB-C Hub,Electronics,South,Offline,Small Business,1,71960,15884.31
+ORD00978,2025-04-06,Notebook,Stationery,West,Offline,Small Business,4,1904,463.25
+ORD00979,2025-05-21,Laptop Pro 14,Electronics,North,Online,Consumer,2,39088,2951.7
+ORD00980,2025-05-15,Standing Desk,Furniture,South,Offline,Consumer,3,12105,3146.4
+ORD00981,2025-01-12,Backpack,Accessories,West,Offline,Small Business,7,14154,2945.27
+ORD00982,2025-03-24,Backpack,Accessories,North,Online,Corporate,3,14841,2896.65
+ORD00983,2025-09-05,Notebook,Stationery,North,Online,Small Business,1,601,56.71
+ORD00984,2025-03-20,Water Bottle,Accessories,South,Online,Small Business,4,2164,271.22
+ORD00985,2025-05-18,Mechanical Keyboard,Electronics,East,Offline,Small Business,5,319100,67923.38
+ORD00986,2025-08-12,Backpack,Accessories,East,Offline,Consumer,7,13447,2797.29
+ORD00987,2025-10-28,USB-C Hub,Electronics,West,Offline,Corporate,5,112060,28357.59
+ORD00988,2025-02-25,USB-C Hub,Electronics,North,Offline,Consumer,7,398790,102295.93
+ORD00989,2025-09-19,Laptop Pro 14,Electronics,North,Online,Consumer,5,388110,50849.5
+ORD00990,2025-08-08,Notebook,Stationery,East,Online,Corporate,3,684,137.55
+ORD00991,2025-01-05,Wireless Mouse,Electronics,East,Online,Small Business,6,12768,2005.04
+ORD00992,2025-07-17,Wireless Mouse,Electronics,East,Online,Small Business,5,397895,29313.58
+ORD00993,2025-12-16,Gel Pen Pack,Stationery,West,Offline,Consumer,7,3395,208.53
+ORD00994,2025-08-04,Standing Desk,Furniture,South,Online,Corporate,2,32672,6075.99
+ORD00995,2025-11-26,Laptop Pro 14,Electronics,North,Offline,Small Business,1,61225,3582.39
+ORD00996,2025-02-05,Laptop Pro 14,Electronics,East,Offline,Consumer,8,105336,12951.44
+ORD00997,2025-06-10,Water Bottle,Accessories,North,Offline,Small Business,8,32184,5261.04
+ORD00998,2025-01-15,Wireless Mouse,Electronics,West,Online,Consumer,4,27876,7763.86
+ORD00999,2025-04-08,Wireless Mouse,Electronics,North,Online,Consumer,6,426948,108087.63
+ORD01000,2025-02-08,Standing Desk,Furniture,South,Offline,Consumer,5,120205,25326.34
+ORD01001,2025-06-13,Mechanical Keyboard,Electronics,South,Offline,Small Business,3,231789,39405.44
+ORD01002,2025-05-24,Backpack,Accessories,North,Offline,Small Business,6,14766,3340.46
+ORD01003,2025-12-04,Office Chair,Furniture,South,Offline,Corporate,4,15848,1566.88
+ORD01004,2025-09-07,Office Chair,Furniture,East,Offline,Small Business,2,16674,4125.91
+ORD01005,2025-09-16,Mechanical Keyboard,Electronics,South,Offline,Consumer,2,35494,9734.76
+ORD01006,2025-05-23,Wireless Mouse,Electronics,North,Online,Consumer,7,155547,13046.76
+ORD01007,2025-08-24,Laptop Pro 14,Electronics,East,Online,Small Business,3,106992,16488.26
+ORD01008,2025-07-01,Wireless Mouse,Electronics,East,Online,Corporate,7,199465,29739.26
+ORD01009,2025-07-09,Standing Desk,Furniture,South,Offline,Consumer,2,45508,4305.25
+ORD01010,2025-05-22,USB-C Hub,Electronics,North,Online,Consumer,8,549408,109145.02
+ORD01011,2025-01-19,Laptop Pro 14,Electronics,West,Offline,Corporate,5,159975,18134.07
+ORD01012,2025-04-23,Wireless Mouse,Electronics,East,Offline,Small Business,5,328015,42627.39
+ORD01013,2025-02-18,Laptop Pro 14,Electronics,South,Online,Corporate,3,199980,49213.02
+ORD01014,2025-03-27,Wireless Mouse,Electronics,West,Offline,Consumer,3,132708,26964.57
+ORD01015,2025-05-16,Mechanical Keyboard,Electronics,North,Offline,Consumer,2,46154,12599.79
+ORD01016,2025-02-26,Backpack,Accessories,South,Online,Consumer,1,2170,370.66
+ORD01017,2025-06-05,Wireless Mouse,Electronics,West,Offline,Corporate,6,360150,39324.09
+ORD01018,2025-01-07,Backpack,Accessories,West,Online,Corporate,6,27252,6217.3
+ORD01019,2025-11-24,Water Bottle,Accessories,North,Online,Small Business,1,1460,192.95
+ORD01020,2025-07-04,Gel Pen Pack,Stationery,West,Online,Corporate,4,3412,928.25
+ORD01021,2025-06-19,Notebook,Stationery,East,Online,Corporate,7,4515,423.65
+ORD01022,2025-10-18,Backpack,Accessories,South,Offline,Small Business,6,26322,6929.62
+ORD01023,2025-09-25,Mechanical Keyboard,Electronics,North,Offline,Consumer,5,369280,59812.17
+ORD01024,2025-01-21,Backpack,Accessories,North,Offline,Corporate,4,2940,477.23
+ORD01025,2025-01-26,Laptop Pro 14,Electronics,South,Online,Small Business,5,93755,19034.61
+ORD01026,2025-03-15,Standing Desk,Furniture,West,Offline,Consumer,4,82704,8298.29
+ORD01027,2025-08-05,Gel Pen Pack,Stationery,West,Offline,Small Business,7,4886,439.05
+ORD01028,2025-12-16,Mechanical Keyboard,Electronics,East,Online,Corporate,4,133880,12837.8
+ORD01029,2025-11-18,USB-C Hub,Electronics,West,Offline,Small Business,8,577944,41663.83
+ORD01030,2025-08-28,Notebook,Stationery,North,Offline,Consumer,6,5646,881.31
+ORD01031,2025-11-11,Mechanical Keyboard,Electronics,East,Online,Corporate,5,162520,12883.48
+ORD01032,2025-07-26,Mechanical Keyboard,Electronics,East,Online,Corporate,1,61361,4262.85
+ORD01033,2025-02-19,USB-C Hub,Electronics,North,Online,Small Business,5,374065,29151.56
+ORD01034,2025-10-15,Mechanical Keyboard,Electronics,North,Offline,Small Business,8,148624,28906.64
+ORD01035,2025-02-28,Office Chair,Furniture,South,Online,Corporate,2,13028,941.65
+ORD01036,2025-09-16,Laptop Pro 14,Electronics,South,Online,Small Business,8,415288,59406.2
+ORD01037,2025-11-10,Standing Desk,Furniture,South,Online,Small Business,8,125336,11594.31
+ORD01038,2025-04-13,Water Bottle,Accessories,West,Offline,Small Business,8,8952,2422.33
+ORD01039,2025-07-20,Standing Desk,Furniture,East,Offline,Consumer,7,116921,9830.52
+ORD01040,2025-07-19,USB-C Hub,Electronics,East,Online,Corporate,1,76792,4592.57
+ORD01041,2025-05-22,Backpack,Accessories,West,Online,Consumer,1,4422,435.48
+ORD01042,2025-06-30,Mechanical Keyboard,Electronics,East,Offline,Consumer,6,365550,84274.27
+ORD01043,2025-07-12,Backpack,Accessories,East,Offline,Small Business,8,36832,4037.6
+ORD01044,2025-07-26,USB-C Hub,Electronics,North,Offline,Small Business,2,13176,951.36
+ORD01045,2025-06-15,Backpack,Accessories,West,Online,Consumer,4,13784,3085.37
+ORD01046,2025-05-09,USB-C Hub,Electronics,North,Online,Corporate,2,11208,2123.95
+ORD01047,2025-12-24,Wireless Mouse,Electronics,West,Offline,Consumer,8,401568,43398.99
+ORD01048,2025-03-24,Office Chair,Furniture,North,Online,Consumer,7,54607,10631.8
+ORD01049,2025-01-03,Mechanical Keyboard,Electronics,West,Online,Consumer,6,325080,41728.44
+ORD01050,2025-08-31,USB-C Hub,Electronics,West,Online,Small Business,6,284550,42950.53
+ORD01051,2025-03-07,Wireless Mouse,Electronics,East,Online,Consumer,5,69630,4305.93
+ORD01052,2025-05-09,Standing Desk,Furniture,South,Offline,Corporate,7,26082,1752.68
+ORD01053,2025-01-30,USB-C Hub,Electronics,West,Offline,Consumer,2,154170,8852.93
+ORD01054,2025-01-31,Notebook,Stationery,North,Online,Corporate,3,2265,235.99
+ORD01055,2025-08-02,Wireless Mouse,Electronics,North,Online,Corporate,2,145952,31579.03
+ORD01056,2025-04-26,Water Bottle,Accessories,North,Online,Consumer,6,12990,713.57
+ORD01057,2025-11-08,Water Bottle,Accessories,West,Online,Corporate,7,5089,707.57
+ORD01058,2025-10-09,Gel Pen Pack,Stationery,East,Offline,Consumer,3,963,126.07
+ORD01059,2025-04-29,Office Chair,Furniture,North,Online,Small Business,2,3658,811.78
+ORD01060,2025-01-30,Office Chair,Furniture,East,Offline,Small Business,2,11304,1299.93
+ORD01061,2025-05-30,Office Chair,Furniture,South,Offline,Small Business,3,51558,3483.61
+ORD01062,2025-04-23,Notebook,Stationery,East,Offline,Small Business,8,5432,929.82
+ORD01063,2025-09-15,Water Bottle,Accessories,South,Online,Small Business,2,8566,979.52
+ORD01064,2025-06-06,Office Chair,Furniture,West,Offline,Consumer,4,54808,15067.77
+ORD01065,2025-09-13,Laptop Pro 14,Electronics,North,Online,Corporate,1,36128,8679.79
+ORD01066,2025-07-16,USB-C Hub,Electronics,South,Offline,Consumer,8,25360,1527.07
+ORD01067,2025-09-30,Gel Pen Pack,Stationery,East,Offline,Small Business,1,1189,315.75
+ORD01068,2025-01-15,Office Chair,Furniture,East,Offline,Corporate,6,93054,16494.53
+ORD01069,2025-10-18,USB-C Hub,Electronics,North,Offline,Small Business,5,110025,8838.39
+ORD01070,2025-02-13,Standing Desk,Furniture,East,Offline,Corporate,4,44772,6302.03
+ORD01071,2025-12-01,Standing Desk,Furniture,West,Offline,Consumer,1,11556,2830.6
+ORD01072,2025-01-05,Backpack,Accessories,North,Online,Corporate,8,38872,3891.23
+ORD01073,2025-10-10,USB-C Hub,Electronics,East,Offline,Corporate,6,54564,12340.99
+ORD01074,2025-04-27,Mechanical Keyboard,Electronics,North,Online,Small Business,3,59862,4568.83
+ORD01075,2025-08-14,Water Bottle,Accessories,East,Offline,Consumer,6,4788,1287.45
+ORD01076,2025-10-04,Notebook,Stationery,West,Online,Small Business,1,796,53.98
+ORD01077,2025-05-02,Wireless Mouse,Electronics,West,Offline,Consumer,4,173604,11530.85
+ORD01078,2025-06-17,Laptop Pro 14,Electronics,East,Online,Consumer,6,267642,71398.94
+ORD01079,2025-01-23,Notebook,Stationery,East,Offline,Consumer,5,660,125.45
+ORD01080,2025-10-26,Gel Pen Pack,Stationery,South,Offline,Small Business,1,240,64.92
+ORD01081,2025-09-28,Wireless Mouse,Electronics,East,Online,Small Business,1,62609,9481.13
+ORD01082,2025-05-05,Standing Desk,Furniture,North,Online,Corporate,6,80160,9812.21
+ORD01083,2025-07-05,Gel Pen Pack,Stationery,West,Online,Corporate,2,2230,580.62
+ORD01084,2025-04-28,Gel Pen Pack,Stationery,East,Offline,Corporate,3,2742,518.99
+ORD01085,2025-02-11,Wireless Mouse,Electronics,South,Online,Corporate,7,391188,76479.15
+ORD01086,2025-03-27,Laptop Pro 14,Electronics,North,Offline,Consumer,2,111140,8788.01
+ORD01087,2025-02-07,Mechanical Keyboard,Electronics,West,Online,Small Business,3,204564,26901.1
+ORD01088,2025-03-02,Standing Desk,Furniture,East,Offline,Corporate,6,125286,8389.54
+ORD01089,2025-08-12,Backpack,Accessories,North,Online,Consumer,5,9010,1950.24
+ORD01090,2025-10-31,USB-C Hub,Electronics,East,Online,Consumer,6,360864,32710.92
+ORD01091,2025-09-10,Standing Desk,Furniture,West,Offline,Corporate,6,119910,21986.76
+ORD01092,2025-06-13,Gel Pen Pack,Stationery,East,Online,Corporate,3,1533,259.69
+ORD01093,2025-03-26,Standing Desk,Furniture,South,Offline,Corporate,2,20946,2124.67
+ORD01094,2025-02-24,USB-C Hub,Electronics,South,Online,Small Business,4,148880,26351.4
+ORD01095,2025-10-04,Laptop Pro 14,Electronics,West,Offline,Small Business,4,6292,608.58
+ORD01096,2025-08-21,Mechanical Keyboard,Electronics,West,Offline,Consumer,5,75335,19168.41
+ORD01097,2025-05-23,Mechanical Keyboard,Electronics,East,Offline,Corporate,2,94124,11787.77
+ORD01098,2025-12-11,Water Bottle,Accessories,East,Online,Small Business,2,2244,593.41
+ORD01099,2025-11-21,Laptop Pro 14,Electronics,East,Offline,Consumer,1,32932,6746.78
+ORD01100,2025-04-06,Backpack,Accessories,South,Online,Corporate,8,8208,2205.42
+ORD01101,2025-09-09,Wireless Mouse,Electronics,South,Offline,Corporate,4,96180,18377.79
+ORD01102,2025-12-03,Water Bottle,Accessories,West,Offline,Small Business,3,12819,2086.31
+ORD01103,2025-06-01,Backpack,Accessories,East,Online,Small Business,2,7474,2040.05
+ORD01104,2025-03-01,Gel Pen Pack,Stationery,South,Offline,Corporate,3,936,196.84
+ORD01105,2025-07-30,USB-C Hub,Electronics,West,Online,Small Business,4,17984,1788.95
+ORD01106,2025-05-14,Notebook,Stationery,North,Offline,Corporate,6,5910,837.43
+ORD01107,2025-06-23,Office Chair,Furniture,South,Online,Small Business,1,16168,2937.34
+ORD01108,2025-11-11,Wireless Mouse,Electronics,North,Offline,Consumer,6,105816,28418.38
+ORD01109,2025-06-30,Notebook,Stationery,South,Offline,Small Business,2,1022,176.97
+ORD01110,2025-05-29,Office Chair,Furniture,South,Online,Consumer,3,37086,6570.85
+ORD01111,2025-09-27,Laptop Pro 14,Electronics,East,Online,Consumer,2,132864,11439.25
+ORD01112,2025-01-18,Office Chair,Furniture,East,Online,Consumer,5,69405,16532.83
+ORD01113,2025-09-16,Wireless Mouse,Electronics,West,Online,Small Business,7,23387,1683.35
+ORD01114,2025-06-15,Standing Desk,Furniture,North,Offline,Small Business,7,15869,2468.4
+ORD01115,2025-08-30,USB-C Hub,Electronics,East,Offline,Corporate,7,272111,74118.64
+ORD01116,2025-09-17,Water Bottle,Accessories,North,Offline,Consumer,4,14096,3789.5
+ORD01117,2025-01-13,USB-C Hub,Electronics,East,Offline,Consumer,7,217861,39111.55
+ORD01118,2025-02-18,Wireless Mouse,Electronics,West,Online,Consumer,3,83763,6910.95
+ORD01119,2025-05-10,Backpack,Accessories,West,Online,Corporate,7,4193,519.65
+ORD01120,2025-10-15,Office Chair,Furniture,West,Online,Consumer,8,143016,17737.23
+ORD01121,2025-12-25,Gel Pen Pack,Stationery,North,Online,Consumer,2,214,36.29
+ORD01122,2025-02-28,Backpack,Accessories,West,Offline,Consumer,1,4597,744.96
+ORD01123,2025-03-02,Standing Desk,Furniture,East,Online,Consumer,7,165711,20572.82
+ORD01124,2025-09-25,Standing Desk,Furniture,East,Online,Consumer,4,74076,11590.11
+ORD01125,2025-08-31,Water Bottle,Accessories,North,Offline,Small Business,1,1531,242.22
+ORD01126,2025-04-13,Office Chair,Furniture,West,Online,Consumer,2,33054,2117.27
+ORD01127,2025-11-22,Notebook,Stationery,West,Offline,Corporate,4,432,48.88
+ORD01128,2025-07-26,USB-C Hub,Electronics,North,Online,Corporate,5,371230,69162.75
+ORD01129,2025-05-15,Mechanical Keyboard,Electronics,East,Offline,Consumer,2,34614,6313.62
+ORD01130,2025-01-02,Mechanical Keyboard,Electronics,North,Offline,Consumer,4,116276,10221.62
+ORD01131,2025-03-12,Laptop Pro 14,Electronics,North,Online,Small Business,8,451664,54013.78
+ORD01132,2025-07-13,Gel Pen Pack,Stationery,North,Online,Consumer,7,5026,617.71
+ORD01133,2025-12-31,Standing Desk,Furniture,East,Online,Small Business,3,59598,12508.01
+ORD01134,2025-11-30,Gel Pen Pack,Stationery,East,Offline,Consumer,6,4968,1129.08
+ORD01135,2025-10-14,USB-C Hub,Electronics,East,Online,Consumer,4,203316,19323.62
+ORD01136,2025-06-08,USB-C Hub,Electronics,East,Online,Small Business,6,78204,20486.3
+ORD01137,2025-11-25,Standing Desk,Furniture,North,Offline,Small Business,8,23512,4556.91
+ORD01138,2025-09-09,Backpack,Accessories,North,Online,Small Business,3,3453,202.98
+ORD01139,2025-03-09,Mechanical Keyboard,Electronics,North,Offline,Consumer,2,111388,21901.11
+ORD01140,2025-05-23,Water Bottle,Accessories,East,Online,Small Business,4,6744,1742.09
+ORD01141,2025-08-02,Gel Pen Pack,Stationery,North,Online,Corporate,1,1107,240.95
+ORD01142,2025-05-22,Laptop Pro 14,Electronics,East,Online,Corporate,4,267808,32556.84
+ORD01143,2025-10-18,Backpack,Accessories,South,Online,Consumer,2,2504,653.9
+ORD01144,2025-10-30,Notebook,Stationery,South,Offline,Small Business,1,525,81.84
+ORD01145,2025-03-09,Office Chair,Furniture,East,Offline,Consumer,5,69645,7950.78
+ORD01146,2025-05-20,Office Chair,Furniture,West,Offline,Small Business,4,44656,4949.91
+ORD01147,2025-06-28,Notebook,Stationery,South,Offline,Corporate,8,6952,1207.76
+ORD01148,2025-04-17,Standing Desk,Furniture,South,Offline,Consumer,6,117450,19737.79
+ORD01149,2025-05-14,Backpack,Accessories,East,Offline,Small Business,1,4192,344.4
+ORD01150,2025-12-04,Gel Pen Pack,Stationery,North,Online,Corporate,1,294,73.48
+ORD01151,2025-06-21,Backpack,Accessories,South,Online,Corporate,6,16854,1473.57
+ORD01152,2025-08-22,USB-C Hub,Electronics,East,Offline,Small Business,7,371287,80337.47
+ORD01153,2025-06-03,Gel Pen Pack,Stationery,East,Offline,Small Business,1,300,44.39
+ORD01154,2025-03-25,Laptop Pro 14,Electronics,South,Online,Small Business,3,120291,32339.46
+ORD01155,2025-01-28,Notebook,Stationery,West,Online,Small Business,2,1576,222.34
+ORD01156,2025-04-13,Mechanical Keyboard,Electronics,South,Offline,Consumer,3,120567,12577.82
+ORD01157,2025-03-20,Office Chair,Furniture,West,Online,Corporate,6,102846,7505.71
+ORD01158,2025-08-26,Gel Pen Pack,Stationery,South,Offline,Corporate,4,1372,309.39
+ORD01159,2025-12-12,Standing Desk,Furniture,North,Online,Small Business,7,100835,13086.31
+ORD01160,2025-05-01,Mechanical Keyboard,Electronics,West,Online,Small Business,6,289104,55054.16
+ORD01161,2025-03-12,Office Chair,Furniture,East,Offline,Small Business,8,23592,3542.15
+ORD01162,2025-08-06,Mechanical Keyboard,Electronics,West,Online,Consumer,3,114150,6621.86
+ORD01163,2025-12-16,Gel Pen Pack,Stationery,West,Online,Consumer,2,1578,316.94
+ORD01164,2025-03-07,Notebook,Stationery,North,Offline,Corporate,7,7525,1107.42
+ORD01165,2025-11-21,Standing Desk,Furniture,East,Offline,Consumer,2,32508,7464.84
+ORD01166,2025-08-06,Mechanical Keyboard,Electronics,East,Online,Small Business,7,78302,20991.69
+ORD01167,2025-08-21,USB-C Hub,Electronics,West,Offline,Corporate,7,49434,3853.72
+ORD01168,2025-11-03,Laptop Pro 14,Electronics,North,Offline,Consumer,6,202632,45870.16
+ORD01169,2025-07-02,Standing Desk,Furniture,North,Offline,Small Business,7,112973,22173.89
+ORD01170,2025-09-30,Laptop Pro 14,Electronics,South,Offline,Corporate,7,233016,16719.29
+ORD01171,2025-06-26,Standing Desk,Furniture,East,Online,Consumer,8,149240,10089.12
+ORD01172,2025-11-23,USB-C Hub,Electronics,East,Offline,Corporate,2,101516,26730.31
+ORD01173,2025-04-05,Laptop Pro 14,Electronics,East,Online,Small Business,5,55455,10054.32
+ORD01174,2025-07-11,Laptop Pro 14,Electronics,North,Offline,Consumer,8,231256,26288.34
+ORD01175,2025-05-20,Standing Desk,Furniture,East,Offline,Corporate,1,8287,1667.0
+ORD01176,2025-11-22,USB-C Hub,Electronics,South,Online,Small Business,6,80598,17173.17
+ORD01177,2025-12-31,Standing Desk,Furniture,North,Offline,Corporate,8,122296,17057.73
+ORD01178,2025-06-27,Notebook,Stationery,South,Offline,Corporate,8,8808,1518.63
+ORD01179,2025-01-17,Gel Pen Pack,Stationery,East,Offline,Corporate,2,1574,153.84
+ORD01180,2025-08-20,Notebook,Stationery,West,Online,Corporate,8,3368,605.99
+ORD01181,2025-09-09,Water Bottle,Accessories,North,Online,Corporate,4,13600,2579.08
+ORD01182,2025-04-19,Office Chair,Furniture,West,Offline,Corporate,2,21962,4971.78
+ORD01183,2025-08-03,Office Chair,Furniture,West,Online,Corporate,5,67000,11090.51
+ORD01184,2025-08-26,Backpack,Accessories,East,Offline,Small Business,5,17885,2080.63
+ORD01185,2025-12-16,Mechanical Keyboard,Electronics,North,Online,Consumer,2,101892,14709.9
+ORD01186,2025-11-14,USB-C Hub,Electronics,South,Online,Small Business,2,158572,19782.6
+ORD01187,2025-12-17,Backpack,Accessories,South,Online,Corporate,2,9644,1616.4
+ORD01188,2025-05-03,Notebook,Stationery,North,Online,Consumer,3,1467,118.11
+ORD01189,2025-08-25,USB-C Hub,Electronics,West,Online,Small Business,8,262544,61239.26
+ORD01190,2025-03-23,Notebook,Stationery,West,Offline,Corporate,4,376,77.78
+ORD01191,2025-08-02,Wireless Mouse,Electronics,North,Offline,Corporate,5,355650,53653.31
+ORD01192,2025-07-06,Laptop Pro 14,Electronics,North,Online,Corporate,7,474257,109604.31
+ORD01193,2025-02-27,USB-C Hub,Electronics,West,Online,Corporate,3,146199,38009.42
+ORD01194,2025-06-18,Wireless Mouse,Electronics,East,Offline,Small Business,2,121524,27234.2
+ORD01195,2025-06-19,Backpack,Accessories,South,Offline,Consumer,8,4736,1066.09
+ORD01196,2025-07-09,Office Chair,Furniture,West,Offline,Small Business,6,69288,13566.3
+ORD01197,2025-03-21,Standing Desk,Furniture,South,Online,Consumer,3,64212,7010.69
+ORD01198,2025-06-05,USB-C Hub,Electronics,West,Offline,Small Business,3,231828,50042.87
+ORD01199,2025-06-26,Mechanical Keyboard,Electronics,West,Online,Small Business,3,232971,31708.14
+ORD01200,2025-03-31,Backpack,Accessories,South,Online,Consumer,8,24832,2525.66

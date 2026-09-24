@@ -1,0 +1,11 @@
+Field,Description
+Order_ID,Unique order identifier
+Date,Transaction date
+Product,Product name
+Category,Product category
+Region,Sales region
+Sales_Channel,Online or Offline
+Customer_Segment,Customer segment
+Quantity,Units sold
+Sales,Revenue amount
+Profit,Profit amount
